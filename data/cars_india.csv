@@ -1,0 +1,1093 @@
+Brand,Model,Body_Type,Segment,Year,Fuel_Type,Transmission,Price,Mileage,Range_km,Engine_CC,Power_bhp,Seating_Capacity,Service_Cost,Cost_Per_Km,Ultra_Luxury,Offroad
+Maruti Suzuki,Alto K10,Hatchback,Budget,2022,Petrol,Manual,420000,24.4,,998,66,5,5100,4.1,0,0
+Maruti Suzuki,Alto K10,Hatchback,Budget,2022,Petrol,Manual,480000,24.4,,998,66,5,5300,4.1,0,0
+Maruti Suzuki,Alto K10,Hatchback,Budget,2022,Petrol,Manual,530000,24.4,,998,66,5,6000,4.1,0,0
+Maruti Suzuki,Alto K10,Hatchback,Budget,2022,Petrol,Automatic,500000,24.4,,998,66,5,5300,4.1,0,0
+Maruti Suzuki,Alto K10,Hatchback,Budget,2022,Petrol,Automatic,550000,24.4,,998,66,5,5800,4.1,0,0
+Maruti Suzuki,Alto K10,Hatchback,Budget,2022,Petrol,Automatic,610000,24.4,,998,66,5,6300,4.1,0,0
+Maruti Suzuki,Alto K10,Hatchback,Budget,2022,CNG,Manual,590000,33.4,,998,56,5,5800,2.54,0,0
+Maruti Suzuki,Alto K10,Hatchback,Budget,2022,CNG,Manual,610000,33.4,,998,56,5,6000,2.54,0,0
+Maruti Suzuki,Alto K10,Hatchback,Budget,2022,CNG,Manual,620000,33.4,,998,56,5,6200,2.54,0,0
+Maruti Suzuki,S-Presso,Hatchback,Budget,2022,Petrol,Manual,430000,24.8,,998,66,5,5200,4.03,0,0
+Maruti Suzuki,S-Presso,Hatchback,Budget,2022,Petrol,Manual,480000,24.8,,998,66,5,5300,4.03,0,0
+Maruti Suzuki,S-Presso,Hatchback,Budget,2022,Petrol,Manual,540000,24.8,,998,66,5,5900,4.03,0,0
+Maruti Suzuki,S-Presso,Hatchback,Budget,2022,Petrol,Automatic,500000,24.8,,998,66,5,5300,4.03,0,0
+Maruti Suzuki,S-Presso,Hatchback,Budget,2022,Petrol,Automatic,560000,24.8,,998,66,5,5700,4.03,0,0
+Maruti Suzuki,S-Presso,Hatchback,Budget,2022,Petrol,Automatic,610000,24.8,,998,66,5,6300,4.03,0,0
+Maruti Suzuki,S-Presso,Hatchback,Budget,2022,CNG,Manual,590000,32.7,,998,56,5,5800,2.6,0,0
+Maruti Suzuki,S-Presso,Hatchback,Budget,2022,CNG,Manual,610000,32.7,,998,56,5,6000,2.6,0,0
+Maruti Suzuki,S-Presso,Hatchback,Budget,2022,CNG,Manual,620000,32.7,,998,56,5,6200,2.6,0,0
+Maruti Suzuki,Wagon R,Hatchback,Budget,2022,Petrol,Manual,550000,24.4,,1197,89,5,5800,4.1,0,0
+Maruti Suzuki,Wagon R,Hatchback,Budget,2022,Petrol,Manual,600000,24.4,,1197,89,5,6200,4.1,0,0
+Maruti Suzuki,Wagon R,Hatchback,Budget,2022,Petrol,Manual,660000,24.4,,1197,89,5,6600,4.1,0,0
+Maruti Suzuki,Wagon R,Hatchback,Budget,2022,Petrol,Automatic,620000,24.4,,1197,89,5,6200,4.1,0,0
+Maruti Suzuki,Wagon R,Hatchback,Budget,2022,Petrol,Automatic,680000,24.4,,1197,89,5,6700,4.1,0,0
+Maruti Suzuki,Wagon R,Hatchback,Budget,2022,Petrol,Automatic,730000,24.4,,1197,89,5,6400,4.1,0,0
+Maruti Suzuki,Wagon R,Hatchback,Budget,2022,CNG,Manual,640000,34.0,,998,56,5,6400,2.5,0,0
+Maruti Suzuki,Wagon R,Hatchback,Budget,2022,CNG,Manual,660000,34.0,,998,56,5,6600,2.5,0,0
+Maruti Suzuki,Wagon R,Hatchback,Budget,2022,CNG,Manual,690000,34.0,,998,56,5,6300,2.5,0,0
+Maruti Suzuki,Celerio,Hatchback,Budget,2021,Petrol,Manual,560000,25.2,,998,66,5,5700,3.97,0,0
+Maruti Suzuki,Celerio,Hatchback,Budget,2021,Petrol,Manual,610000,25.2,,998,66,5,6300,3.97,0,0
+Maruti Suzuki,Celerio,Hatchback,Budget,2021,Petrol,Manual,660000,25.2,,998,66,5,6600,3.97,0,0
+Maruti Suzuki,Celerio,Hatchback,Budget,2021,Petrol,Automatic,620000,25.2,,998,66,5,6200,3.97,0,0
+Maruti Suzuki,Celerio,Hatchback,Budget,2021,Petrol,Automatic,670000,25.2,,998,66,5,6000,3.97,0,0
+Maruti Suzuki,Celerio,Hatchback,Budget,2021,Petrol,Automatic,720000,25.2,,998,66,5,6600,3.97,0,0
+Maruti Suzuki,Celerio,Hatchback,Budget,2021,CNG,Manual,670000,34.4,,998,56,5,6600,2.47,0,0
+Maruti Suzuki,Celerio,Hatchback,Budget,2021,CNG,Manual,680000,34.4,,998,56,5,6600,2.47,0,0
+Maruti Suzuki,Celerio,Hatchback,Budget,2021,CNG,Manual,700000,34.4,,998,56,5,6200,2.47,0,0
+Maruti Suzuki,Ignis,Hatchback,Budget,2020,Petrol,Manual,590000,20.9,,1197,81,5,5700,4.78,0,0
+Maruti Suzuki,Ignis,Hatchback,Budget,2020,Petrol,Manual,660000,20.9,,1197,81,5,6600,4.78,0,0
+Maruti Suzuki,Ignis,Hatchback,Budget,2020,Petrol,Manual,730000,20.9,,1197,81,5,6400,4.78,0,0
+Maruti Suzuki,Ignis,Hatchback,Budget,2020,Petrol,Automatic,690000,20.9,,1197,81,5,6600,4.78,0,0
+Maruti Suzuki,Ignis,Hatchback,Budget,2020,Petrol,Automatic,760000,20.9,,1197,81,5,6500,4.78,0,0
+Maruti Suzuki,Ignis,Hatchback,Budget,2020,Petrol,Automatic,830000,20.9,,1197,81,5,7400,4.78,0,0
+Maruti Suzuki,Swift,Hatchback,Mainstream,2024,Petrol,Manual,650000,24.8,,1197,81,5,6100,4.03,0,0
+Maruti Suzuki,Swift,Hatchback,Mainstream,2024,Petrol,Manual,740000,24.8,,1197,81,5,6700,4.03,0,0
+Maruti Suzuki,Swift,Hatchback,Mainstream,2024,Petrol,Manual,840000,24.8,,1197,81,5,7300,4.03,0,0
+Maruti Suzuki,Swift,Hatchback,Mainstream,2024,Petrol,Automatic,770000,24.8,,1197,81,5,7000,4.03,0,0
+Maruti Suzuki,Swift,Hatchback,Mainstream,2024,Petrol,Automatic,870000,24.8,,1197,81,5,7200,4.03,0,0
+Maruti Suzuki,Swift,Hatchback,Mainstream,2024,Petrol,Automatic,960000,24.8,,1197,81,5,7500,4.03,0,0
+Maruti Suzuki,Swift,Hatchback,Mainstream,2024,CNG,Manual,820000,32.8,,1197,69,5,7000,2.59,0,0
+Maruti Suzuki,Swift,Hatchback,Mainstream,2024,CNG,Manual,870000,32.8,,1197,69,5,7600,2.59,0,0
+Maruti Suzuki,Swift,Hatchback,Mainstream,2024,CNG,Manual,920000,32.8,,1197,69,5,7800,2.59,0,0
+Maruti Suzuki,Baleno,Hatchback,Mainstream,2022,Petrol,Manual,670000,22.9,,1197,88,5,6000,4.37,0,0
+Maruti Suzuki,Baleno,Hatchback,Mainstream,2022,Petrol,Manual,770000,22.9,,1197,88,5,7000,4.37,0,0
+Maruti Suzuki,Baleno,Hatchback,Mainstream,2022,Petrol,Manual,860000,22.9,,1197,88,5,7200,4.37,0,0
+Maruti Suzuki,Baleno,Hatchback,Mainstream,2022,Petrol,Automatic,800000,22.9,,1197,88,5,7000,4.37,0,0
+Maruti Suzuki,Baleno,Hatchback,Mainstream,2022,Petrol,Automatic,890000,22.9,,1197,88,5,7600,4.37,0,0
+Maruti Suzuki,Baleno,Hatchback,Mainstream,2022,Petrol,Automatic,990000,22.9,,1197,88,5,7400,4.37,0,0
+Maruti Suzuki,Baleno,Hatchback,Mainstream,2022,CNG,Manual,830000,30.6,,1197,76,5,6600,2.78,0,0
+Maruti Suzuki,Baleno,Hatchback,Mainstream,2022,CNG,Manual,880000,30.6,,1197,76,5,7400,2.78,0,0
+Maruti Suzuki,Baleno,Hatchback,Mainstream,2022,CNG,Manual,920000,30.6,,1197,76,5,7800,2.78,0,0
+Maruti Suzuki,Dzire,Sedan,Mainstream,2024,Petrol,Manual,680000,24.8,,1197,81,5,6700,4.03,0,0
+Maruti Suzuki,Dzire,Sedan,Mainstream,2024,Petrol,Manual,780000,24.8,,1197,81,5,7000,4.03,0,0
+Maruti Suzuki,Dzire,Sedan,Mainstream,2024,Petrol,Manual,880000,24.8,,1197,81,5,7500,4.03,0,0
+Maruti Suzuki,Dzire,Sedan,Mainstream,2024,Petrol,Automatic,810000,24.8,,1197,81,5,6700,4.03,0,0
+Maruti Suzuki,Dzire,Sedan,Mainstream,2024,Petrol,Automatic,910000,24.8,,1197,81,5,7100,4.03,0,0
+Maruti Suzuki,Dzire,Sedan,Mainstream,2024,Petrol,Automatic,1010000,24.8,,1197,81,5,7300,4.03,0,0
+Maruti Suzuki,Dzire,Sedan,Mainstream,2024,CNG,Manual,880000,33.7,,1197,69,5,7400,2.52,0,0
+Maruti Suzuki,Dzire,Sedan,Mainstream,2024,CNG,Manual,930000,33.7,,1197,69,5,7400,2.52,0,0
+Maruti Suzuki,Dzire,Sedan,Mainstream,2024,CNG,Manual,980000,33.7,,1197,69,5,7400,2.52,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,Petrol,Manual,750000,21.8,,1197,88,5,6700,4.59,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,Petrol,Manual,880000,21.8,,1197,88,5,7500,4.59,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,Petrol,Manual,1020000,21.8,,1197,88,5,7800,4.59,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,Petrol,Automatic,930000,21.8,,1197,88,5,7500,4.59,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,Petrol,Automatic,1060000,21.8,,1197,88,5,7500,4.59,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,Petrol,Automatic,1200000,21.8,,1197,88,5,8900,4.59,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,Petrol,Manual,950000,21.5,,998,99,5,7100,4.65,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,Petrol,Manual,1060000,21.5,,998,99,5,7500,4.65,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,Petrol,Manual,1170000,21.5,,998,99,5,8600,4.65,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,Petrol,Automatic,1090000,21.5,,998,99,5,8000,4.65,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,Petrol,Automatic,1200000,21.5,,998,99,5,8900,4.65,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,Petrol,Automatic,1310000,21.5,,998,99,5,9100,4.65,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,CNG,Manual,850000,28.5,,1197,76,5,6800,2.98,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,CNG,Manual,880000,28.5,,1197,76,5,7400,2.98,0,0
+Maruti Suzuki,Fronx,SUV,Mainstream,2023,CNG,Manual,910000,28.5,,1197,76,5,6900,2.98,0,0
+Maruti Suzuki,Brezza,SUV,Mainstream,2022,Petrol,Manual,830000,20.2,,1462,102,5,7400,4.95,0,0
+Maruti Suzuki,Brezza,SUV,Mainstream,2022,Petrol,Manual,1000000,20.2,,1462,102,5,8000,4.95,0,0
+Maruti Suzuki,Brezza,SUV,Mainstream,2022,Petrol,Manual,1180000,20.2,,1462,102,5,8700,4.95,0,0
+Maruti Suzuki,Brezza,SUV,Mainstream,2022,Petrol,Automatic,1060000,20.2,,1462,102,5,7500,4.95,0,0
+Maruti Suzuki,Brezza,SUV,Mainstream,2022,Petrol,Automatic,1240000,20.2,,1462,102,5,8600,4.95,0,0
+Maruti Suzuki,Brezza,SUV,Mainstream,2022,Petrol,Automatic,1410000,20.2,,1462,102,5,9000,4.95,0,0
+Maruti Suzuki,Brezza,SUV,Mainstream,2022,CNG,Manual,930000,25.5,,1462,87,5,7400,3.33,0,0
+Maruti Suzuki,Brezza,SUV,Mainstream,2022,CNG,Manual,1070000,25.5,,1462,87,5,7600,3.33,0,0
+Maruti Suzuki,Brezza,SUV,Mainstream,2022,CNG,Manual,1210000,25.5,,1462,87,5,8100,3.33,0,0
+Maruti Suzuki,Grand Vitara,SUV,Mainstream,2022,Petrol,Manual,1100000,21.1,,1462,102,5,8300,4.74,0,0
+Maruti Suzuki,Grand Vitara,SUV,Mainstream,2022,Petrol,Manual,1360000,21.1,,1462,102,5,9100,4.74,0,0
+Maruti Suzuki,Grand Vitara,SUV,Mainstream,2022,Petrol,Manual,1610000,21.1,,1462,102,5,9700,4.74,0,0
+Maruti Suzuki,Grand Vitara,SUV,Mainstream,2022,Petrol,Automatic,1440000,21.1,,1462,102,5,9400,4.74,0,0
+Maruti Suzuki,Grand Vitara,SUV,Mainstream,2022,Petrol,Automatic,1700000,21.1,,1462,102,5,11200,4.74,0,0
+Maruti Suzuki,Grand Vitara,SUV,Mainstream,2022,Petrol,Automatic,1950000,21.1,,1462,102,5,12000,4.74,0,0
+Maruti Suzuki,Grand Vitara,SUV,Mainstream,2022,Hybrid,Automatic,1700000,27.9,,1490,114,5,10700,3.58,0,0
+Maruti Suzuki,Grand Vitara,SUV,Mainstream,2022,Hybrid,Automatic,1850000,27.9,,1490,114,5,11400,3.58,0,0
+Maruti Suzuki,Grand Vitara,SUV,Mainstream,2022,Hybrid,Automatic,2000000,27.9,,1490,114,5,12300,3.58,0,0
+Maruti Suzuki,Jimny,SUV,Mainstream,2023,Petrol,Manual,1270000,16.9,,1462,103,4,8400,5.92,0,1
+Maruti Suzuki,Jimny,SUV,Mainstream,2023,Petrol,Manual,1330000,16.9,,1462,103,4,9000,5.92,0,1
+Maruti Suzuki,Jimny,SUV,Mainstream,2023,Petrol,Manual,1400000,16.9,,1462,103,4,9400,5.92,0,1
+Maruti Suzuki,Jimny,SUV,Mainstream,2023,Petrol,Automatic,1350000,16.9,,1462,103,4,9000,5.92,0,1
+Maruti Suzuki,Jimny,SUV,Mainstream,2023,Petrol,Automatic,1420000,16.9,,1462,103,4,10000,5.92,0,1
+Maruti Suzuki,Jimny,SUV,Mainstream,2023,Petrol,Automatic,1480000,16.9,,1462,103,4,9800,5.92,0,1
+Maruti Suzuki,Eeco,MPV,Budget,2022,Petrol,Manual,530000,19.7,,1196,80,7,6000,5.08,0,0
+Maruti Suzuki,Eeco,MPV,Budget,2022,Petrol,Manual,590000,19.7,,1196,80,7,5700,5.08,0,0
+Maruti Suzuki,Eeco,MPV,Budget,2022,Petrol,Manual,650000,19.7,,1196,80,7,6100,5.08,0,0
+Maruti Suzuki,Eeco,MPV,Budget,2022,CNG,Manual,630000,26.8,,1196,70,7,5900,3.17,0,0
+Maruti Suzuki,Eeco,MPV,Budget,2022,CNG,Manual,660000,26.8,,1196,70,7,6600,3.17,0,0
+Maruti Suzuki,Eeco,MPV,Budget,2022,CNG,Manual,680000,26.8,,1196,70,7,6600,3.17,0,0
+Maruti Suzuki,Ertiga,MPV,Mainstream,2022,Petrol,Manual,880000,20.5,,1462,102,7,7500,4.88,0,0
+Maruti Suzuki,Ertiga,MPV,Mainstream,2022,Petrol,Manual,1010000,20.5,,1462,102,7,7300,4.88,0,0
+Maruti Suzuki,Ertiga,MPV,Mainstream,2022,Petrol,Manual,1130000,20.5,,1462,102,7,8600,4.88,0,0
+Maruti Suzuki,Ertiga,MPV,Mainstream,2022,Petrol,Automatic,1050000,20.5,,1462,102,7,8200,4.88,0,0
+Maruti Suzuki,Ertiga,MPV,Mainstream,2022,Petrol,Automatic,1170000,20.5,,1462,102,7,8600,4.88,0,0
+Maruti Suzuki,Ertiga,MPV,Mainstream,2022,Petrol,Automatic,1300000,20.5,,1462,102,7,8600,4.88,0,0
+Maruti Suzuki,Ertiga,MPV,Mainstream,2022,CNG,Manual,1070000,26.1,,1462,87,7,7600,3.26,0,0
+Maruti Suzuki,Ertiga,MPV,Mainstream,2022,CNG,Manual,1140000,26.1,,1462,87,7,8600,3.26,0,0
+Maruti Suzuki,Ertiga,MPV,Mainstream,2022,CNG,Manual,1210000,26.1,,1462,87,7,8100,3.26,0,0
+Maruti Suzuki,XL6,MPV,Mainstream,2022,Petrol,Manual,1160000,20.9,,1462,102,6,8400,4.78,0,0
+Maruti Suzuki,XL6,MPV,Mainstream,2022,Petrol,Manual,1260000,20.9,,1462,102,6,8900,4.78,0,0
+Maruti Suzuki,XL6,MPV,Mainstream,2022,Petrol,Manual,1350000,20.9,,1462,102,6,9000,4.78,0,0
+Maruti Suzuki,XL6,MPV,Mainstream,2022,Petrol,Automatic,1290000,20.9,,1462,102,6,8700,4.78,0,0
+Maruti Suzuki,XL6,MPV,Mainstream,2022,Petrol,Automatic,1380000,20.9,,1462,102,6,9700,4.78,0,0
+Maruti Suzuki,XL6,MPV,Mainstream,2022,Petrol,Automatic,1480000,20.9,,1462,102,6,9800,4.78,0,0
+Maruti Suzuki,Invicto,MPV,Premium,2023,Hybrid,Automatic,2500000,23.2,,1987,150,7,13900,4.31,0,0
+Maruti Suzuki,Invicto,MPV,Premium,2023,Hybrid,Automatic,2700000,23.2,,1987,150,7,14700,4.31,0,0
+Maruti Suzuki,Invicto,MPV,Premium,2023,Hybrid,Automatic,2900000,23.2,,1987,150,7,16000,4.31,0,0
+Hyundai,Grand i10 Nios,Hatchback,Budget,2023,Petrol,Manual,590000,20.7,,1197,82,5,6200,4.83,0,0
+Hyundai,Grand i10 Nios,Hatchback,Budget,2023,Petrol,Manual,670000,20.7,,1197,82,5,6200,4.83,0,0
+Hyundai,Grand i10 Nios,Hatchback,Budget,2023,Petrol,Manual,760000,20.7,,1197,82,5,6900,4.83,0,0
+Hyundai,Grand i10 Nios,Hatchback,Budget,2023,Petrol,Automatic,700000,20.7,,1197,82,5,6400,4.83,0,0
+Hyundai,Grand i10 Nios,Hatchback,Budget,2023,Petrol,Automatic,790000,20.7,,1197,82,5,7000,4.83,0,0
+Hyundai,Grand i10 Nios,Hatchback,Budget,2023,Petrol,Automatic,870000,20.7,,1197,82,5,6800,4.83,0,0
+Hyundai,Grand i10 Nios,Hatchback,Budget,2023,CNG,Manual,770000,27.0,,1197,69,5,6400,3.15,0,0
+Hyundai,Grand i10 Nios,Hatchback,Budget,2023,CNG,Manual,810000,27.0,,1197,69,5,7000,3.15,0,0
+Hyundai,Grand i10 Nios,Hatchback,Budget,2023,CNG,Manual,850000,27.0,,1197,69,5,7000,3.15,0,0
+Hyundai,i20,Hatchback,Mainstream,2023,Petrol,Manual,700000,20.0,,1197,83,5,6400,5.0,0,0
+Hyundai,i20,Hatchback,Mainstream,2023,Petrol,Manual,830000,20.0,,1197,83,5,7100,5.0,0,0
+Hyundai,i20,Hatchback,Mainstream,2023,Petrol,Manual,950000,20.0,,1197,83,5,7800,5.0,0,0
+Hyundai,i20,Hatchback,Mainstream,2023,Petrol,Automatic,870000,20.0,,1197,83,5,6800,5.0,0,0
+Hyundai,i20,Hatchback,Mainstream,2023,Petrol,Automatic,990000,20.0,,1197,83,5,7800,5.0,0,0
+Hyundai,i20,Hatchback,Mainstream,2023,Petrol,Automatic,1120000,20.0,,1197,83,5,8300,5.0,0,0
+Hyundai,i20,Hatchback,Mainstream,2023,Petrol,Manual,990000,20.0,,998,118,5,7800,5.0,0,0
+Hyundai,i20,Hatchback,Mainstream,2023,Petrol,Manual,1060000,20.0,,998,118,5,7600,5.0,0,0
+Hyundai,i20,Hatchback,Mainstream,2023,Petrol,Manual,1130000,20.0,,998,118,5,8500,5.0,0,0
+Hyundai,i20,Hatchback,Mainstream,2023,Petrol,Automatic,1080000,20.0,,998,118,5,7700,5.0,0,0
+Hyundai,i20,Hatchback,Mainstream,2023,Petrol,Automatic,1150000,20.0,,998,118,5,8600,5.0,0,0
+Hyundai,i20,Hatchback,Mainstream,2023,Petrol,Automatic,1220000,20.0,,998,118,5,8300,5.0,0,0
+Hyundai,Aura,Sedan,Mainstream,2023,Petrol,Manual,650000,20.5,,1197,82,5,6300,4.88,0,0
+Hyundai,Aura,Sedan,Mainstream,2023,Petrol,Manual,730000,20.5,,1197,82,5,6900,4.88,0,0
+Hyundai,Aura,Sedan,Mainstream,2023,Petrol,Manual,820000,20.5,,1197,82,5,6800,4.88,0,0
+Hyundai,Aura,Sedan,Mainstream,2023,Petrol,Automatic,760000,20.5,,1197,82,5,6900,4.88,0,0
+Hyundai,Aura,Sedan,Mainstream,2023,Petrol,Automatic,850000,20.5,,1197,82,5,7300,4.88,0,0
+Hyundai,Aura,Sedan,Mainstream,2023,Petrol,Automatic,930000,20.5,,1197,82,5,7200,4.88,0,0
+Hyundai,Aura,Sedan,Mainstream,2023,CNG,Manual,800000,28.0,,1197,69,5,6800,3.04,0,0
+Hyundai,Aura,Sedan,Mainstream,2023,CNG,Manual,840000,28.0,,1197,69,5,7200,3.04,0,0
+Hyundai,Aura,Sedan,Mainstream,2023,CNG,Manual,890000,28.0,,1197,69,5,7000,3.04,0,0
+Hyundai,Exter,SUV,Mainstream,2023,Petrol,Manual,610000,19.4,,1197,82,5,5900,5.15,0,0
+Hyundai,Exter,SUV,Mainstream,2023,Petrol,Manual,740000,19.4,,1197,82,5,6700,5.15,0,0
+Hyundai,Exter,SUV,Mainstream,2023,Petrol,Manual,870000,19.4,,1197,82,5,6800,5.15,0,0
+Hyundai,Exter,SUV,Mainstream,2023,Petrol,Automatic,780000,19.4,,1197,82,5,6500,5.15,0,0
+Hyundai,Exter,SUV,Mainstream,2023,Petrol,Automatic,910000,19.4,,1197,82,5,7100,5.15,0,0
+Hyundai,Exter,SUV,Mainstream,2023,Petrol,Automatic,1040000,19.4,,1197,82,5,7600,5.15,0,0
+Hyundai,Exter,SUV,Mainstream,2023,CNG,Manual,850000,27.1,,1197,69,5,7000,3.14,0,0
+Hyundai,Exter,SUV,Mainstream,2023,CNG,Manual,910000,27.1,,1197,69,5,7600,3.14,0,0
+Hyundai,Exter,SUV,Mainstream,2023,CNG,Manual,960000,27.1,,1197,69,5,7600,3.14,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Petrol,Manual,790000,17.5,,1197,82,5,7000,5.71,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Petrol,Manual,900000,17.5,,1197,82,5,7200,5.71,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Petrol,Manual,1020000,17.5,,1197,82,5,7700,5.71,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Petrol,Automatic,940000,17.5,,1197,82,5,7700,5.71,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Petrol,Automatic,1060000,17.5,,1197,82,5,7600,5.71,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Petrol,Automatic,1170000,17.5,,1197,82,5,8600,5.71,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Petrol,Manual,1200000,18.0,,998,118,5,8100,5.56,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Petrol,Manual,1240000,18.0,,998,118,5,8300,5.56,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Petrol,Manual,1290000,18.0,,998,118,5,8700,5.56,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Petrol,Automatic,1260000,18.0,,998,118,5,8700,5.56,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Petrol,Automatic,1300000,18.0,,998,118,5,8500,5.56,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Petrol,Automatic,1350000,18.0,,998,118,5,9300,5.56,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Diesel,Manual,1000000,23.4,,1493,114,5,7900,3.85,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Diesel,Manual,1100000,23.4,,1493,114,5,8300,3.85,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Diesel,Manual,1210000,23.4,,1493,114,5,8500,3.85,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Diesel,Automatic,1140000,23.4,,1493,114,5,8700,3.85,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Diesel,Automatic,1240000,23.4,,1493,114,5,8500,3.85,0,0
+Hyundai,Venue,SUV,Mainstream,2022,Diesel,Automatic,1350000,23.4,,1493,114,5,9600,3.85,0,0
+Hyundai,Verna,Sedan,Mainstream,2023,Petrol,Manual,1100000,18.6,,1497,113,5,8500,5.38,0,0
+Hyundai,Verna,Sedan,Mainstream,2023,Petrol,Manual,1300000,18.6,,1497,113,5,8500,5.38,0,0
+Hyundai,Verna,Sedan,Mainstream,2023,Petrol,Manual,1490000,18.6,,1497,113,5,9300,5.38,0,0
+Hyundai,Verna,Sedan,Mainstream,2023,Petrol,Automatic,1360000,18.6,,1497,113,5,9700,5.38,0,0
+Hyundai,Verna,Sedan,Mainstream,2023,Petrol,Automatic,1560000,18.6,,1497,113,5,9800,5.38,0,0
+Hyundai,Verna,Sedan,Mainstream,2023,Petrol,Automatic,1750000,18.6,,1497,113,5,10400,5.38,0,0
+Hyundai,Verna,Sedan,Mainstream,2023,Petrol,Automatic,1580000,20.0,,1482,158,5,10100,5.0,0,0
+Hyundai,Verna,Sedan,Mainstream,2023,Petrol,Automatic,1690000,20.0,,1482,158,5,11200,5.0,0,0
+Hyundai,Verna,Sedan,Mainstream,2023,Petrol,Automatic,1800000,20.0,,1482,158,5,10800,5.0,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Petrol,Manual,1110000,17.4,,1497,113,5,8600,5.75,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Petrol,Manual,1380000,17.4,,1497,113,5,8800,5.75,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Petrol,Manual,1660000,17.4,,1497,113,5,11000,5.75,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Petrol,Automatic,1470000,17.4,,1497,113,5,10100,5.75,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Petrol,Automatic,1750000,17.4,,1497,113,5,10400,5.75,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Petrol,Automatic,2020000,17.4,,1497,113,5,11300,5.75,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Diesel,Manual,1250000,21.8,,1493,114,5,9100,4.13,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Diesel,Manual,1480000,21.8,,1493,114,5,9200,4.13,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Diesel,Manual,1710000,21.8,,1493,114,5,10400,4.13,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Diesel,Automatic,1560000,21.8,,1493,114,5,9700,4.13,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Diesel,Automatic,1790000,21.8,,1493,114,5,10700,4.13,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Diesel,Automatic,2020000,21.8,,1493,114,5,11500,4.13,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Petrol,Automatic,1730000,18.4,,1482,158,5,10700,5.43,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Petrol,Automatic,1880000,18.4,,1482,158,5,10800,5.43,0,0
+Hyundai,Creta,SUV,Mainstream,2024,Petrol,Automatic,2020000,18.4,,1482,158,5,11300,5.43,0,0
+Hyundai,Alcazar,SUV,Mainstream,2024,Petrol,Manual,1500000,18.0,,1482,158,7,10400,5.56,0,0
+Hyundai,Alcazar,SUV,Mainstream,2024,Petrol,Manual,1700000,18.0,,1482,158,7,10600,5.56,0,0
+Hyundai,Alcazar,SUV,Mainstream,2024,Petrol,Manual,1890000,18.0,,1482,158,7,11700,5.56,0,0
+Hyundai,Alcazar,SUV,Mainstream,2024,Petrol,Automatic,1760000,18.0,,1482,158,7,10900,5.56,0,0
+Hyundai,Alcazar,SUV,Mainstream,2024,Petrol,Automatic,1960000,18.0,,1482,158,7,12400,5.56,0,0
+Hyundai,Alcazar,SUV,Mainstream,2024,Petrol,Automatic,2150000,18.0,,1482,158,7,12300,5.56,0,0
+Hyundai,Alcazar,SUV,Mainstream,2024,Diesel,Manual,1550000,20.4,,1493,114,7,10600,4.41,0,0
+Hyundai,Alcazar,SUV,Mainstream,2024,Diesel,Manual,1720000,20.4,,1493,114,7,10900,4.41,0,0
+Hyundai,Alcazar,SUV,Mainstream,2024,Diesel,Manual,1890000,20.4,,1493,114,7,10900,4.41,0,0
+Hyundai,Alcazar,SUV,Mainstream,2024,Diesel,Automatic,1770000,20.4,,1493,114,7,11000,4.41,0,0
+Hyundai,Alcazar,SUV,Mainstream,2024,Diesel,Automatic,1940000,20.4,,1493,114,7,12100,4.41,0,0
+Hyundai,Alcazar,SUV,Mainstream,2024,Diesel,Automatic,2110000,20.4,,1493,114,7,12900,4.41,0,0
+Hyundai,Tucson,SUV,Premium,2022,Petrol,Automatic,2930000,13.0,,1999,154,5,16500,7.69,0,0
+Hyundai,Tucson,SUV,Premium,2022,Petrol,Automatic,3060000,13.0,,1999,154,5,15900,7.69,0,0
+Hyundai,Tucson,SUV,Premium,2022,Petrol,Automatic,3200000,13.0,,1999,154,5,17300,7.69,0,0
+Hyundai,Tucson,SUV,Premium,2022,Diesel,Automatic,3200000,18.0,,1997,184,5,16800,5.0,0,0
+Hyundai,Tucson,SUV,Premium,2022,Diesel,Automatic,3380000,18.0,,1997,184,5,17700,5.0,0,0
+Hyundai,Tucson,SUV,Premium,2022,Diesel,Automatic,3550000,18.0,,1997,184,5,19300,5.0,0,0
+Hyundai,Creta Electric,SUV,Premium,2025,Electric,Automatic,1790000,,473,,169,5,6500,1.2,0,0
+Hyundai,Creta Electric,SUV,Premium,2025,Electric,Automatic,2120000,,473,,169,5,7500,1.2,0,0
+Hyundai,Creta Electric,SUV,Premium,2025,Electric,Automatic,2440000,,473,,169,5,7800,1.2,0,0
+Hyundai,Ioniq 5,SUV,Premium,2022,Electric,Automatic,4600000,,631,,214,5,13500,1.2,0,0
+Hyundai,Ioniq 5,SUV,Premium,2022,Electric,Automatic,4620000,,631,,214,5,14100,1.2,0,0
+Hyundai,Ioniq 5,SUV,Premium,2022,Electric,Automatic,4630000,,631,,214,5,13200,1.2,0,0
+Kia,Sonet,SUV,Mainstream,2024,Petrol,Manual,800000,18.4,,1197,82,5,7100,5.43,0,0
+Kia,Sonet,SUV,Mainstream,2024,Petrol,Manual,910000,18.4,,1197,82,5,7200,5.43,0,0
+Kia,Sonet,SUV,Mainstream,2024,Petrol,Manual,1030000,18.4,,1197,82,5,7800,5.43,0,0
+Kia,Sonet,SUV,Mainstream,2024,Petrol,Automatic,950000,18.4,,1197,82,5,7200,5.43,0,0
+Kia,Sonet,SUV,Mainstream,2024,Petrol,Automatic,1070000,18.4,,1197,82,5,8200,5.43,0,0
+Kia,Sonet,SUV,Mainstream,2024,Petrol,Automatic,1180000,18.4,,1197,82,5,8900,5.43,0,0
+Kia,Sonet,SUV,Mainstream,2024,Petrol,Manual,1000000,18.3,,998,118,5,7300,5.46,0,0
+Kia,Sonet,SUV,Mainstream,2024,Petrol,Manual,1140000,18.3,,998,118,5,8600,5.46,0,0
+Kia,Sonet,SUV,Mainstream,2024,Petrol,Manual,1280000,18.3,,998,118,5,9200,5.46,0,0
+Kia,Sonet,SUV,Mainstream,2024,Petrol,Automatic,1190000,18.3,,998,118,5,9000,5.46,0,0
+Kia,Sonet,SUV,Mainstream,2024,Petrol,Automatic,1330000,18.3,,998,118,5,8800,5.46,0,0
+Kia,Sonet,SUV,Mainstream,2024,Petrol,Automatic,1470000,18.3,,998,118,5,9400,5.46,0,0
+Kia,Sonet,SUV,Mainstream,2024,Diesel,Manual,970000,22.3,,1493,114,5,7900,4.04,0,0
+Kia,Sonet,SUV,Mainstream,2024,Diesel,Manual,1150000,22.3,,1493,114,5,8300,4.04,0,0
+Kia,Sonet,SUV,Mainstream,2024,Diesel,Manual,1330000,22.3,,1493,114,5,8800,4.04,0,0
+Kia,Sonet,SUV,Mainstream,2024,Diesel,Automatic,1210000,22.3,,1493,114,5,8800,4.04,0,0
+Kia,Sonet,SUV,Mainstream,2024,Diesel,Automatic,1390000,22.3,,1493,114,5,9000,4.04,0,0
+Kia,Sonet,SUV,Mainstream,2024,Diesel,Automatic,1570000,22.3,,1493,114,5,9600,4.04,0,0
+Kia,Seltos,SUV,Mainstream,2023,Petrol,Manual,1110000,17.0,,1497,113,5,8200,5.88,0,0
+Kia,Seltos,SUV,Mainstream,2023,Petrol,Manual,1380000,17.0,,1497,113,5,8900,5.88,0,0
+Kia,Seltos,SUV,Mainstream,2023,Petrol,Manual,1640000,17.0,,1497,113,5,10700,5.88,0,0
+Kia,Seltos,SUV,Mainstream,2023,Petrol,Automatic,1470000,17.0,,1497,113,5,9400,5.88,0,0
+Kia,Seltos,SUV,Mainstream,2023,Petrol,Automatic,1730000,17.0,,1497,113,5,10500,5.88,0,0
+Kia,Seltos,SUV,Mainstream,2023,Petrol,Automatic,2000000,17.0,,1497,113,5,12500,5.88,0,0
+Kia,Seltos,SUV,Mainstream,2023,Diesel,Manual,1250000,20.7,,1493,114,5,8600,4.35,0,0
+Kia,Seltos,SUV,Mainstream,2023,Diesel,Manual,1480000,20.7,,1493,114,5,10100,4.35,0,0
+Kia,Seltos,SUV,Mainstream,2023,Diesel,Manual,1700000,20.7,,1493,114,5,10100,4.35,0,0
+Kia,Seltos,SUV,Mainstream,2023,Diesel,Automatic,1550000,20.7,,1493,114,5,9900,4.35,0,0
+Kia,Seltos,SUV,Mainstream,2023,Diesel,Automatic,1780000,20.7,,1493,114,5,11500,4.35,0,0
+Kia,Seltos,SUV,Mainstream,2023,Diesel,Automatic,2000000,20.7,,1493,114,5,11500,4.35,0,0
+Kia,Seltos,SUV,Mainstream,2023,Petrol,Automatic,1600000,17.7,,1482,158,5,10100,5.65,0,0
+Kia,Seltos,SUV,Mainstream,2023,Petrol,Automatic,1820000,17.7,,1482,158,5,11400,5.65,0,0
+Kia,Seltos,SUV,Mainstream,2023,Petrol,Automatic,2050000,17.7,,1482,158,5,12700,5.65,0,0
+Kia,Carens,MPV,Mainstream,2022,Petrol,Manual,1050000,16.5,,1497,113,7,8100,6.06,0,0
+Kia,Carens,MPV,Mainstream,2022,Petrol,Manual,1300000,16.5,,1497,113,7,9100,6.06,0,0
+Kia,Carens,MPV,Mainstream,2022,Petrol,Manual,1560000,16.5,,1497,113,7,9900,6.06,0,0
+Kia,Carens,MPV,Mainstream,2022,Petrol,Automatic,1390000,16.5,,1497,113,7,8800,6.06,0,0
+Kia,Carens,MPV,Mainstream,2022,Petrol,Automatic,1640000,16.5,,1497,113,7,10700,6.06,0,0
+Kia,Carens,MPV,Mainstream,2022,Petrol,Automatic,1900000,16.5,,1497,113,7,11200,6.06,0,0
+Kia,Carens,MPV,Mainstream,2022,Diesel,Manual,1200000,21.0,,1493,114,7,8600,4.29,0,0
+Kia,Carens,MPV,Mainstream,2022,Diesel,Manual,1410000,21.0,,1493,114,7,9500,4.29,0,0
+Kia,Carens,MPV,Mainstream,2022,Diesel,Manual,1620000,21.0,,1493,114,7,10500,4.29,0,0
+Kia,Carens,MPV,Mainstream,2022,Diesel,Automatic,1480000,21.0,,1493,114,7,10100,4.29,0,0
+Kia,Carens,MPV,Mainstream,2022,Diesel,Automatic,1690000,21.0,,1493,114,7,10500,4.29,0,0
+Kia,Carens,MPV,Mainstream,2022,Diesel,Automatic,1900000,21.0,,1493,114,7,11800,4.29,0,0
+Kia,Carens,MPV,Mainstream,2022,Petrol,Automatic,1800000,16.7,,1482,158,7,10900,5.99,0,0
+Kia,Carens,MPV,Mainstream,2022,Petrol,Automatic,1890000,16.7,,1482,158,7,11100,5.99,0,0
+Kia,Carens,MPV,Mainstream,2022,Petrol,Automatic,1980000,16.7,,1482,158,7,11700,5.99,0,0
+Kia,Carnival,MPV,Luxury,2024,Diesel,Automatic,6390000,14.8,,2151,190,7,31000,6.08,0,0
+Kia,Carnival,MPV,Luxury,2024,Diesel,Automatic,6440000,14.8,,2151,190,7,29000,6.08,0,0
+Kia,Carnival,MPV,Luxury,2024,Diesel,Automatic,6500000,14.8,,2151,190,7,29500,6.08,0,0
+Kia,EV6,SUV,Luxury,2022,Electric,Automatic,6090000,,708,,321,5,16700,1.2,0,0
+Kia,EV6,SUV,Luxury,2022,Electric,Automatic,6340000,,708,,321,5,17700,1.2,0,0
+Kia,EV6,SUV,Luxury,2022,Electric,Automatic,6590000,,708,,321,5,18900,1.2,0,0
+Kia,EV9,SUV,Luxury,2024,Electric,Automatic,12900000,,561,,379,7,32700,1.2,0,0
+Kia,EV9,SUV,Luxury,2024,Electric,Automatic,13000000,,561,,379,7,33800,1.2,0,0
+Kia,EV9,SUV,Luxury,2024,Electric,Automatic,13100000,,561,,379,7,34900,1.2,0,0
+Tata Motors,Tiago,Hatchback,Budget,2023,Petrol,Manual,500000,19.0,,1199,84,5,5800,5.26,0,0
+Tata Motors,Tiago,Hatchback,Budget,2023,Petrol,Manual,600000,19.0,,1199,84,5,6100,5.26,0,0
+Tata Motors,Tiago,Hatchback,Budget,2023,Petrol,Manual,700000,19.0,,1199,84,5,6600,5.26,0,0
+Tata Motors,Tiago,Hatchback,Budget,2023,Petrol,Automatic,640000,19.0,,1199,84,5,6400,5.26,0,0
+Tata Motors,Tiago,Hatchback,Budget,2023,Petrol,Automatic,740000,19.0,,1199,84,5,6300,5.26,0,0
+Tata Motors,Tiago,Hatchback,Budget,2023,Petrol,Automatic,840000,19.0,,1199,84,5,6800,5.26,0,0
+Tata Motors,Tiago,Hatchback,Budget,2023,CNG,Manual,660000,26.5,,1199,72,5,6100,3.21,0,0
+Tata Motors,Tiago,Hatchback,Budget,2023,CNG,Manual,710000,26.5,,1199,72,5,6200,3.21,0,0
+Tata Motors,Tiago,Hatchback,Budget,2023,CNG,Manual,760000,26.5,,1199,72,5,6600,3.21,0,0
+Tata Motors,Tiago,Hatchback,Budget,2023,CNG,Automatic,720000,26.5,,1199,72,5,6200,3.21,0,0
+Tata Motors,Tiago,Hatchback,Budget,2023,CNG,Automatic,770000,26.5,,1199,72,5,6500,3.21,0,0
+Tata Motors,Tiago,Hatchback,Budget,2023,CNG,Automatic,820000,26.5,,1199,72,5,6800,3.21,0,0
+Tata Motors,Tiago EV,Hatchback,Mainstream,2022,Electric,Automatic,800000,,315,,74,5,4100,1.2,0,0
+Tata Motors,Tiago EV,Hatchback,Mainstream,2022,Electric,Automatic,990000,,315,,74,5,4500,1.2,0,0
+Tata Motors,Tiago EV,Hatchback,Mainstream,2022,Electric,Automatic,1190000,,315,,74,5,5100,1.2,0,0
+Tata Motors,Tigor,Sedan,Mainstream,2022,Petrol,Manual,550000,19.3,,1199,84,5,5800,5.18,0,0
+Tata Motors,Tigor,Sedan,Mainstream,2022,Petrol,Manual,650000,19.3,,1199,84,5,6200,5.18,0,0
+Tata Motors,Tigor,Sedan,Mainstream,2022,Petrol,Manual,750000,19.3,,1199,84,5,6400,5.18,0,0
+Tata Motors,Tigor,Sedan,Mainstream,2022,Petrol,Automatic,690000,19.3,,1199,84,5,6700,5.18,0,0
+Tata Motors,Tigor,Sedan,Mainstream,2022,Petrol,Automatic,790000,19.3,,1199,84,5,6600,5.18,0,0
+Tata Motors,Tigor,Sedan,Mainstream,2022,Petrol,Automatic,890000,19.3,,1199,84,5,6900,5.18,0,0
+Tata Motors,Tigor,Sedan,Mainstream,2022,CNG,Manual,750000,26.4,,1199,72,5,6600,3.22,0,0
+Tata Motors,Tigor,Sedan,Mainstream,2022,CNG,Manual,810000,26.4,,1199,72,5,6600,3.22,0,0
+Tata Motors,Tigor,Sedan,Mainstream,2022,CNG,Manual,870000,26.4,,1199,72,5,7300,3.22,0,0
+Tata Motors,Tigor,Sedan,Mainstream,2022,CNG,Automatic,830000,26.4,,1199,72,5,6900,3.22,0,0
+Tata Motors,Tigor,Sedan,Mainstream,2022,CNG,Automatic,890000,26.4,,1199,72,5,7600,3.22,0,0
+Tata Motors,Tigor,Sedan,Mainstream,2022,CNG,Automatic,950000,26.4,,1199,72,5,7200,3.22,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,Petrol,Manual,670000,19.3,,1199,87,5,6000,5.18,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,Petrol,Manual,810000,19.3,,1199,87,5,6500,5.18,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,Petrol,Manual,950000,19.3,,1199,87,5,7200,5.18,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,Petrol,Automatic,850000,19.3,,1199,87,5,7100,5.18,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,Petrol,Automatic,990000,19.3,,1199,87,5,8000,5.18,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,Petrol,Automatic,1130000,19.3,,1199,87,5,8400,5.18,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,Diesel,Manual,860000,23.6,,1497,89,5,7100,3.81,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,Diesel,Manual,990000,23.6,,1497,89,5,8000,3.81,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,Diesel,Manual,1130000,23.6,,1497,89,5,8000,3.81,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,CNG,Manual,760000,26.2,,1199,72,5,6600,3.24,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,CNG,Manual,850000,26.2,,1199,72,5,7300,3.24,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,CNG,Manual,940000,26.2,,1199,72,5,7100,3.24,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,CNG,Automatic,880000,26.2,,1199,72,5,7300,3.24,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,CNG,Automatic,970000,26.2,,1199,72,5,7700,3.24,0,0
+Tata Motors,Altroz,Hatchback,Mainstream,2023,CNG,Automatic,1060000,26.2,,1199,72,5,7800,3.24,0,0
+Tata Motors,Punch,SUV,Mainstream,2024,Petrol,Manual,610000,20.1,,1199,86,5,6400,4.98,0,0
+Tata Motors,Punch,SUV,Mainstream,2024,Petrol,Manual,740000,20.1,,1199,86,5,6300,4.98,0,0
+Tata Motors,Punch,SUV,Mainstream,2024,Petrol,Manual,860000,20.1,,1199,86,5,7200,4.98,0,0
+Tata Motors,Punch,SUV,Mainstream,2024,Petrol,Automatic,780000,20.1,,1199,86,5,6400,4.98,0,0
+Tata Motors,Punch,SUV,Mainstream,2024,Petrol,Automatic,900000,20.1,,1199,86,5,7100,4.98,0,0
+Tata Motors,Punch,SUV,Mainstream,2024,Petrol,Automatic,1030000,20.1,,1199,86,5,7400,4.98,0,0
+Tata Motors,Punch,SUV,Mainstream,2024,CNG,Manual,720000,27.0,,1199,72,5,6200,3.15,0,0
+Tata Motors,Punch,SUV,Mainstream,2024,CNG,Manual,800000,27.0,,1199,72,5,6600,3.15,0,0
+Tata Motors,Punch,SUV,Mainstream,2024,CNG,Manual,880000,27.0,,1199,72,5,7300,3.15,0,0
+Tata Motors,Punch,SUV,Mainstream,2024,CNG,Automatic,830000,27.0,,1199,72,5,6900,3.15,0,0
+Tata Motors,Punch,SUV,Mainstream,2024,CNG,Automatic,910000,27.0,,1199,72,5,7100,3.15,0,0
+Tata Motors,Punch,SUV,Mainstream,2024,CNG,Automatic,990000,27.0,,1199,72,5,7800,3.15,0,0
+Tata Motors,Punch EV,SUV,Mainstream,2024,Electric,Automatic,990000,,421,,120,5,4500,1.2,0,0
+Tata Motors,Punch EV,SUV,Mainstream,2024,Electric,Automatic,1220000,,421,,120,5,4900,1.2,0,0
+Tata Motors,Punch EV,SUV,Mainstream,2024,Electric,Automatic,1440000,,421,,120,5,5400,1.2,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,Petrol,Manual,800000,17.4,,1199,120,5,7200,5.75,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,Petrol,Manual,1030000,17.4,,1199,120,5,7400,5.75,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,Petrol,Manual,1260000,17.4,,1199,120,5,8900,5.75,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,Petrol,Automatic,1100000,17.4,,1199,120,5,8500,5.75,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,Petrol,Automatic,1330000,17.4,,1199,120,5,8900,5.75,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,Petrol,Automatic,1560000,17.4,,1199,120,5,10300,5.75,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,Diesel,Manual,1000000,23.2,,1497,113,5,7500,3.88,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,Diesel,Manual,1170000,23.2,,1497,113,5,8200,3.88,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,Diesel,Manual,1350000,23.2,,1497,113,5,8800,3.88,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,Diesel,Automatic,1230000,23.2,,1497,113,5,9000,3.88,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,Diesel,Automatic,1410000,23.2,,1497,113,5,9200,3.88,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,Diesel,Automatic,1580000,23.2,,1497,113,5,10400,3.88,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,CNG,Manual,890000,24.0,,1199,99,5,7600,3.54,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,CNG,Manual,1060000,24.0,,1199,99,5,7800,3.54,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,CNG,Manual,1230000,24.0,,1199,99,5,8700,3.54,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,CNG,Automatic,1120000,24.0,,1199,99,5,7900,3.54,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,CNG,Automatic,1290000,24.0,,1199,99,5,9400,3.54,0,0
+Tata Motors,Nexon,SUV,Mainstream,2023,CNG,Automatic,1460000,24.0,,1199,99,5,9600,3.54,0,0
+Tata Motors,Nexon EV,SUV,Mainstream,2023,Electric,Automatic,1250000,,489,,143,5,5300,1.2,0,0
+Tata Motors,Nexon EV,SUV,Mainstream,2023,Electric,Automatic,1480000,,489,,143,5,5700,1.2,0,0
+Tata Motors,Nexon EV,SUV,Mainstream,2023,Electric,Automatic,1720000,,489,,143,5,6600,1.2,0,0
+Tata Motors,Curvv,SUV,Mainstream,2024,Petrol,Manual,990000,16.5,,1199,120,5,8000,6.06,0,0
+Tata Motors,Curvv,SUV,Mainstream,2024,Petrol,Manual,1210000,16.5,,1199,120,5,9000,6.06,0,0
+Tata Motors,Curvv,SUV,Mainstream,2024,Petrol,Manual,1430000,16.5,,1199,120,5,9900,6.06,0,0
+Tata Motors,Curvv,SUV,Mainstream,2024,Petrol,Automatic,1280000,16.5,,1199,120,5,9100,6.06,0,0
+Tata Motors,Curvv,SUV,Mainstream,2024,Petrol,Automatic,1500000,16.5,,1199,120,5,10200,6.06,0,0
+Tata Motors,Curvv,SUV,Mainstream,2024,Petrol,Automatic,1720000,16.5,,1199,120,5,10100,6.06,0,0
+Tata Motors,Curvv,SUV,Mainstream,2024,Diesel,Manual,1150000,19.5,,1497,113,5,8500,4.62,0,0
+Tata Motors,Curvv,SUV,Mainstream,2024,Diesel,Manual,1360000,19.5,,1497,113,5,9400,4.62,0,0
+Tata Motors,Curvv,SUV,Mainstream,2024,Diesel,Manual,1570000,19.5,,1497,113,5,9900,4.62,0,0
+Tata Motors,Curvv,SUV,Mainstream,2024,Diesel,Automatic,1430000,19.5,,1497,113,5,9700,4.62,0,0
+Tata Motors,Curvv,SUV,Mainstream,2024,Diesel,Automatic,1640000,19.5,,1497,113,5,10300,4.62,0,0
+Tata Motors,Curvv,SUV,Mainstream,2024,Diesel,Automatic,1850000,19.5,,1497,113,5,11400,4.62,0,0
+Tata Motors,Curvv EV,SUV,Mainstream,2024,Electric,Automatic,1750000,,502,,165,5,6400,1.2,0,0
+Tata Motors,Curvv EV,SUV,Mainstream,2024,Electric,Automatic,1980000,,502,,165,5,7200,1.2,0,0
+Tata Motors,Curvv EV,SUV,Mainstream,2024,Electric,Automatic,2200000,,502,,165,5,7700,1.2,0,0
+Tata Motors,Harrier,SUV,Premium,2023,Diesel,Manual,1500000,16.8,,1956,167,5,9700,5.36,0,0
+Tata Motors,Harrier,SUV,Premium,2023,Diesel,Manual,1840000,16.8,,1956,167,5,11100,5.36,0,0
+Tata Motors,Harrier,SUV,Premium,2023,Diesel,Manual,2190000,16.8,,1956,167,5,12500,5.36,0,0
+Tata Motors,Harrier,SUV,Premium,2023,Diesel,Automatic,1960000,16.8,,1956,167,5,11200,5.36,0,0
+Tata Motors,Harrier,SUV,Premium,2023,Diesel,Automatic,2300000,16.8,,1956,167,5,12400,5.36,0,0
+Tata Motors,Harrier,SUV,Premium,2023,Diesel,Automatic,2650000,16.8,,1956,167,5,14600,5.36,0,0
+Tata Motors,Safari,SUV,Premium,2023,Diesel,Manual,1550000,16.3,,1956,167,7,9500,5.52,0,0
+Tata Motors,Safari,SUV,Premium,2023,Diesel,Manual,1900000,16.3,,1956,167,7,11300,5.52,0,0
+Tata Motors,Safari,SUV,Premium,2023,Diesel,Manual,2260000,16.3,,1956,167,7,13600,5.52,0,0
+Tata Motors,Safari,SUV,Premium,2023,Diesel,Automatic,2020000,16.3,,1956,167,7,11800,5.52,0,0
+Tata Motors,Safari,SUV,Premium,2023,Diesel,Automatic,2380000,16.3,,1956,167,7,13600,5.52,0,0
+Tata Motors,Safari,SUV,Premium,2023,Diesel,Automatic,2730000,16.3,,1956,167,7,15000,5.52,0,0
+Mahindra,Bolero,SUV,Mainstream,2022,Diesel,Manual,980000,16.0,,1493,75,7,7800,5.62,0,1
+Mahindra,Bolero,SUV,Mainstream,2022,Diesel,Manual,1030000,16.0,,1493,75,7,7700,5.62,0,1
+Mahindra,Bolero,SUV,Mainstream,2022,Diesel,Manual,1080000,16.0,,1493,75,7,8400,5.62,0,1
+Mahindra,Bolero Neo,SUV,Mainstream,2022,Diesel,Manual,990000,17.3,,1493,100,7,7300,5.2,0,1
+Mahindra,Bolero Neo,SUV,Mainstream,2022,Diesel,Manual,1100000,17.3,,1493,100,7,8300,5.2,0,1
+Mahindra,Bolero Neo,SUV,Mainstream,2022,Diesel,Manual,1220000,17.3,,1493,100,7,8600,5.2,0,1
+Mahindra,Thar,SUV,Mainstream,2024,Petrol,Manual,1150000,15.2,,1997,150,4,8500,6.58,0,1
+Mahindra,Thar,SUV,Mainstream,2024,Petrol,Manual,1330000,15.2,,1997,150,4,8700,6.58,0,1
+Mahindra,Thar,SUV,Mainstream,2024,Petrol,Manual,1520000,15.2,,1997,150,4,9600,6.58,0,1
+Mahindra,Thar,SUV,Mainstream,2024,Petrol,Automatic,1390000,15.2,,1997,150,4,9300,6.58,0,1
+Mahindra,Thar,SUV,Mainstream,2024,Petrol,Automatic,1580000,15.2,,1997,150,4,9800,6.58,0,1
+Mahindra,Thar,SUV,Mainstream,2024,Petrol,Automatic,1760000,15.2,,1997,150,4,11300,6.58,0,1
+Mahindra,Thar,SUV,Mainstream,2024,Diesel,Manual,1150000,15.2,,2184,117,4,8500,5.92,0,1
+Mahindra,Thar,SUV,Mainstream,2024,Diesel,Manual,1330000,15.2,,2184,117,4,9200,5.92,0,1
+Mahindra,Thar,SUV,Mainstream,2024,Diesel,Manual,1520000,15.2,,2184,117,4,10200,5.92,0,1
+Mahindra,Thar,SUV,Mainstream,2024,Diesel,Automatic,1390000,15.2,,2184,117,4,9400,5.92,0,1
+Mahindra,Thar,SUV,Mainstream,2024,Diesel,Automatic,1580000,15.2,,2184,117,4,10000,5.92,0,1
+Mahindra,Thar,SUV,Mainstream,2024,Diesel,Automatic,1760000,15.2,,2184,117,4,10400,5.92,0,1
+Mahindra,Thar Roxx,SUV,Mainstream,2024,Petrol,Manual,1300000,12.4,,1997,160,5,9000,8.06,0,1
+Mahindra,Thar Roxx,SUV,Mainstream,2024,Petrol,Manual,1600000,12.4,,1997,160,5,10000,8.06,0,1
+Mahindra,Thar Roxx,SUV,Mainstream,2024,Petrol,Manual,1900000,12.4,,1997,160,5,11500,8.06,0,1
+Mahindra,Thar Roxx,SUV,Mainstream,2024,Petrol,Automatic,1700000,12.4,,1997,160,5,11000,8.06,0,1
+Mahindra,Thar Roxx,SUV,Mainstream,2024,Petrol,Automatic,2000000,12.4,,1997,160,5,11400,8.06,0,1
+Mahindra,Thar Roxx,SUV,Mainstream,2024,Petrol,Automatic,2300000,12.4,,1997,160,5,12900,8.06,0,1
+Mahindra,Thar Roxx,SUV,Mainstream,2024,Diesel,Manual,1400000,15.4,,2184,172,5,9600,5.84,0,1
+Mahindra,Thar Roxx,SUV,Mainstream,2024,Diesel,Manual,1670000,15.4,,2184,172,5,10900,5.84,0,1
+Mahindra,Thar Roxx,SUV,Mainstream,2024,Diesel,Manual,1940000,15.4,,2184,172,5,12300,5.84,0,1
+Mahindra,Thar Roxx,SUV,Mainstream,2024,Diesel,Automatic,1760000,15.4,,2184,172,5,10400,5.84,0,1
+Mahindra,Thar Roxx,SUV,Mainstream,2024,Diesel,Automatic,2030000,15.4,,2184,172,5,12600,5.84,0,1
+Mahindra,Thar Roxx,SUV,Mainstream,2024,Diesel,Automatic,2300000,15.4,,2184,172,5,13100,5.84,0,1
+Mahindra,XUV 3XO,SUV,Mainstream,2024,Petrol,Manual,750000,18.9,,1197,110,5,6700,5.29,0,0
+Mahindra,XUV 3XO,SUV,Mainstream,2024,Petrol,Manual,990000,18.9,,1197,110,5,7500,5.29,0,0
+Mahindra,XUV 3XO,SUV,Mainstream,2024,Petrol,Manual,1230000,18.9,,1197,110,5,8600,5.29,0,0
+Mahindra,XUV 3XO,SUV,Mainstream,2024,Petrol,Automatic,1070000,18.9,,1197,110,5,7900,5.29,0,0
+Mahindra,XUV 3XO,SUV,Mainstream,2024,Petrol,Automatic,1310000,18.9,,1197,110,5,9500,5.29,0,0
+Mahindra,XUV 3XO,SUV,Mainstream,2024,Petrol,Automatic,1550000,18.9,,1197,110,5,9700,5.29,0,0
+Mahindra,XUV 3XO,SUV,Mainstream,2024,Diesel,Manual,990000,20.6,,1498,115,5,7300,4.37,0,0
+Mahindra,XUV 3XO,SUV,Mainstream,2024,Diesel,Manual,1160000,20.6,,1498,115,5,8600,4.37,0,0
+Mahindra,XUV 3XO,SUV,Mainstream,2024,Diesel,Manual,1330000,20.6,,1498,115,5,9200,4.37,0,0
+Mahindra,XUV 3XO,SUV,Mainstream,2024,Diesel,Automatic,1210000,20.6,,1498,115,5,8100,4.37,0,0
+Mahindra,XUV 3XO,SUV,Mainstream,2024,Diesel,Automatic,1380000,20.6,,1498,115,5,9700,4.37,0,0
+Mahindra,XUV 3XO,SUV,Mainstream,2024,Diesel,Automatic,1550000,20.6,,1498,115,5,10100,4.37,0,0
+Mahindra,Scorpio Classic,SUV,Mainstream,2022,Diesel,Manual,1360000,14.4,,2184,130,7,9100,6.25,0,1
+Mahindra,Scorpio Classic,SUV,Mainstream,2022,Diesel,Manual,1550000,14.4,,2184,130,7,10100,6.25,0,1
+Mahindra,Scorpio Classic,SUV,Mainstream,2022,Diesel,Manual,1740000,14.4,,2184,130,7,10600,6.25,0,1
+Mahindra,Scorpio-N,SUV,Premium,2022,Petrol,Manual,1380000,12.0,,1997,200,7,9800,8.33,0,1
+Mahindra,Scorpio-N,SUV,Premium,2022,Petrol,Manual,1700000,12.0,,1997,200,7,11000,8.33,0,1
+Mahindra,Scorpio-N,SUV,Premium,2022,Petrol,Manual,2020000,12.0,,1997,200,7,12200,8.33,0,1
+Mahindra,Scorpio-N,SUV,Premium,2022,Petrol,Automatic,1810000,12.0,,1997,200,7,11500,8.33,0,1
+Mahindra,Scorpio-N,SUV,Premium,2022,Petrol,Automatic,2130000,12.0,,1997,200,7,12500,8.33,0,1
+Mahindra,Scorpio-N,SUV,Premium,2022,Petrol,Automatic,2450000,12.0,,1997,200,7,14300,8.33,0,1
+Mahindra,Scorpio-N,SUV,Premium,2022,Diesel,Manual,1400000,15.4,,2198,172,7,9600,5.84,0,1
+Mahindra,Scorpio-N,SUV,Premium,2022,Diesel,Manual,1730000,15.4,,2198,172,7,10200,5.84,0,1
+Mahindra,Scorpio-N,SUV,Premium,2022,Diesel,Manual,2050000,15.4,,2198,172,7,11600,5.84,0,1
+Mahindra,Scorpio-N,SUV,Premium,2022,Diesel,Automatic,1840000,15.4,,2198,172,7,10900,5.84,0,1
+Mahindra,Scorpio-N,SUV,Premium,2022,Diesel,Automatic,2160000,15.4,,2198,172,7,13200,5.84,0,1
+Mahindra,Scorpio-N,SUV,Premium,2022,Diesel,Automatic,2490000,15.4,,2198,172,7,14100,5.84,0,1
+Mahindra,XUV700,SUV,Premium,2022,Petrol,Manual,1400000,12.4,,1999,197,7,9800,8.06,0,0
+Mahindra,XUV700,SUV,Premium,2022,Petrol,Manual,1730000,12.4,,1999,197,7,11300,8.06,0,0
+Mahindra,XUV700,SUV,Premium,2022,Petrol,Manual,2060000,12.4,,1999,197,7,12100,8.06,0,0
+Mahindra,XUV700,SUV,Premium,2022,Petrol,Automatic,1840000,12.4,,1999,197,7,11300,8.06,0,0
+Mahindra,XUV700,SUV,Premium,2022,Petrol,Automatic,2170000,12.4,,1999,197,7,13000,8.06,0,0
+Mahindra,XUV700,SUV,Premium,2022,Petrol,Automatic,2500000,12.4,,1999,197,7,14100,8.06,0,0
+Mahindra,XUV700,SUV,Premium,2022,Diesel,Manual,1400000,16.0,,2184,182,7,9600,5.62,0,0
+Mahindra,XUV700,SUV,Premium,2022,Diesel,Manual,1750000,16.0,,2184,182,7,10400,5.62,0,0
+Mahindra,XUV700,SUV,Premium,2022,Diesel,Manual,2100000,16.0,,2184,182,7,11800,5.62,0,0
+Mahindra,XUV700,SUV,Premium,2022,Diesel,Automatic,1860000,16.0,,2184,182,7,11200,5.62,0,0
+Mahindra,XUV700,SUV,Premium,2022,Diesel,Automatic,2210000,16.0,,2184,182,7,13400,5.62,0,0
+Mahindra,XUV700,SUV,Premium,2022,Diesel,Automatic,2560000,16.0,,2184,182,7,14600,5.62,0,0
+Mahindra,BE 6,SUV,Premium,2025,Electric,Automatic,1890000,,535,,281,5,6900,1.2,0,0
+Mahindra,BE 6,SUV,Premium,2025,Electric,Automatic,2300000,,535,,281,5,7600,1.2,0,0
+Mahindra,BE 6,SUV,Premium,2025,Electric,Automatic,2700000,,535,,281,5,9200,1.2,0,0
+Mahindra,XEV 9e,SUV,Premium,2025,Electric,Automatic,2190000,,542,,282,5,7700,1.2,0,0
+Mahindra,XEV 9e,SUV,Premium,2025,Electric,Automatic,2640000,,542,,282,5,8300,1.2,0,0
+Mahindra,XEV 9e,SUV,Premium,2025,Electric,Automatic,3100000,,542,,282,5,9700,1.2,0,0
+Toyota,Glanza,Hatchback,Mainstream,2022,Petrol,Manual,690000,22.9,,1197,88,5,6300,4.37,0,0
+Toyota,Glanza,Hatchback,Mainstream,2022,Petrol,Manual,780000,22.9,,1197,88,5,6700,4.37,0,0
+Toyota,Glanza,Hatchback,Mainstream,2022,Petrol,Manual,880000,22.9,,1197,88,5,7000,4.37,0,0
+Toyota,Glanza,Hatchback,Mainstream,2022,Petrol,Automatic,810000,22.9,,1197,88,5,6500,4.37,0,0
+Toyota,Glanza,Hatchback,Mainstream,2022,Petrol,Automatic,910000,22.9,,1197,88,5,7000,4.37,0,0
+Toyota,Glanza,Hatchback,Mainstream,2022,Petrol,Automatic,1000000,22.9,,1197,88,5,7800,4.37,0,0
+Toyota,Glanza,Hatchback,Mainstream,2022,CNG,Manual,830000,30.6,,1197,76,5,7000,2.78,0,0
+Toyota,Glanza,Hatchback,Mainstream,2022,CNG,Manual,880000,30.6,,1197,76,5,7200,2.78,0,0
+Toyota,Glanza,Hatchback,Mainstream,2022,CNG,Manual,920000,30.6,,1197,76,5,7300,2.78,0,0
+Toyota,Urban Cruiser Taisor,SUV,Mainstream,2024,Petrol,Manual,770000,21.7,,1197,88,5,6900,4.61,0,0
+Toyota,Urban Cruiser Taisor,SUV,Mainstream,2024,Petrol,Manual,930000,21.7,,1197,88,5,7000,4.61,0,0
+Toyota,Urban Cruiser Taisor,SUV,Mainstream,2024,Petrol,Manual,1090000,21.7,,1197,88,5,7800,4.61,0,0
+Toyota,Urban Cruiser Taisor,SUV,Mainstream,2024,Petrol,Automatic,980000,21.7,,1197,88,5,7400,4.61,0,0
+Toyota,Urban Cruiser Taisor,SUV,Mainstream,2024,Petrol,Automatic,1140000,21.7,,1197,88,5,8600,4.61,0,0
+Toyota,Urban Cruiser Taisor,SUV,Mainstream,2024,Petrol,Automatic,1300000,21.7,,1197,88,5,8900,4.61,0,0
+Toyota,Urban Cruiser Taisor,SUV,Mainstream,2024,CNG,Manual,970000,28.5,,1197,76,5,7200,2.98,0,0
+Toyota,Urban Cruiser Taisor,SUV,Mainstream,2024,CNG,Manual,1010000,28.5,,1197,76,5,7800,2.98,0,0
+Toyota,Urban Cruiser Taisor,SUV,Mainstream,2024,CNG,Manual,1050000,28.5,,1197,76,5,8000,2.98,0,0
+Toyota,Urban Cruiser Hyryder,SUV,Mainstream,2022,Petrol,Manual,1110000,21.1,,1462,102,5,8600,4.74,0,0
+Toyota,Urban Cruiser Hyryder,SUV,Mainstream,2022,Petrol,Manual,1350000,21.1,,1462,102,5,9600,4.74,0,0
+Toyota,Urban Cruiser Hyryder,SUV,Mainstream,2022,Petrol,Manual,1580000,21.1,,1462,102,5,9600,4.74,0,0
+Toyota,Urban Cruiser Hyryder,SUV,Mainstream,2022,Petrol,Automatic,1430000,21.1,,1462,102,5,9600,4.74,0,0
+Toyota,Urban Cruiser Hyryder,SUV,Mainstream,2022,Petrol,Automatic,1660000,21.1,,1462,102,5,10500,4.74,0,0
+Toyota,Urban Cruiser Hyryder,SUV,Mainstream,2022,Petrol,Automatic,1900000,21.1,,1462,102,5,11300,4.74,0,0
+Toyota,Urban Cruiser Hyryder,SUV,Mainstream,2022,Hybrid,Automatic,1500000,27.9,,1490,114,5,10400,3.58,0,0
+Toyota,Urban Cruiser Hyryder,SUV,Mainstream,2022,Hybrid,Automatic,1750000,27.9,,1490,114,5,11300,3.58,0,0
+Toyota,Urban Cruiser Hyryder,SUV,Mainstream,2022,Hybrid,Automatic,2000000,27.9,,1490,114,5,11400,3.58,0,0
+Toyota,Urban Cruiser Hyryder,SUV,Mainstream,2022,CNG,Manual,1300000,26.6,,1462,87,5,9100,3.2,0,0
+Toyota,Urban Cruiser Hyryder,SUV,Mainstream,2022,CNG,Manual,1400000,26.6,,1462,87,5,9700,3.2,0,0
+Toyota,Urban Cruiser Hyryder,SUV,Mainstream,2022,CNG,Manual,1500000,26.6,,1462,87,5,9600,3.2,0,0
+Toyota,Rumion,MPV,Mainstream,2023,Petrol,Manual,1040000,20.5,,1462,102,7,7700,4.88,0,0
+Toyota,Rumion,MPV,Mainstream,2023,Petrol,Manual,1140000,20.5,,1462,102,7,8600,4.88,0,0
+Toyota,Rumion,MPV,Mainstream,2023,Petrol,Manual,1240000,20.5,,1462,102,7,8200,4.88,0,0
+Toyota,Rumion,MPV,Mainstream,2023,Petrol,Automatic,1170000,20.5,,1462,102,7,8200,4.88,0,0
+Toyota,Rumion,MPV,Mainstream,2023,Petrol,Automatic,1270000,20.5,,1462,102,7,8400,4.88,0,0
+Toyota,Rumion,MPV,Mainstream,2023,Petrol,Automatic,1370000,20.5,,1462,102,7,9700,4.88,0,0
+Toyota,Rumion,MPV,Mainstream,2023,CNG,Manual,1180000,26.1,,1462,87,7,8200,3.26,0,0
+Toyota,Rumion,MPV,Mainstream,2023,CNG,Manual,1220000,26.1,,1462,87,7,8500,3.26,0,0
+Toyota,Rumion,MPV,Mainstream,2023,CNG,Manual,1270000,26.1,,1462,87,7,9300,3.26,0,0
+Toyota,Innova Crysta,MPV,Premium,2022,Diesel,Manual,2000000,15.0,,2393,150,7,11400,6.0,0,0
+Toyota,Innova Crysta,MPV,Premium,2022,Diesel,Manual,2190000,15.0,,2393,150,7,12000,6.0,0,0
+Toyota,Innova Crysta,MPV,Premium,2022,Diesel,Manual,2380000,15.0,,2393,150,7,13200,6.0,0,0
+Toyota,Innova Crysta,MPV,Premium,2022,Diesel,Automatic,2250000,15.0,,2393,150,7,13700,6.0,0,0
+Toyota,Innova Crysta,MPV,Premium,2022,Diesel,Automatic,2440000,15.0,,2393,150,7,13600,6.0,0,0
+Toyota,Innova Crysta,MPV,Premium,2022,Diesel,Automatic,2630000,15.0,,2393,150,7,15300,6.0,0,0
+Toyota,Innova Hycross,MPV,Premium,2023,Hybrid,Automatic,1990000,23.2,,1987,183,7,12300,4.31,0,0
+Toyota,Innova Hycross,MPV,Premium,2023,Hybrid,Automatic,2540000,23.2,,1987,183,7,13900,4.31,0,0
+Toyota,Innova Hycross,MPV,Premium,2023,Hybrid,Automatic,3090000,23.2,,1987,183,7,17200,4.31,0,0
+Toyota,Innova Hycross,MPV,Premium,2023,Petrol,Automatic,1990000,16.1,,1987,172,7,12200,6.21,0,0
+Toyota,Innova Hycross,MPV,Premium,2023,Petrol,Automatic,2070000,16.1,,1987,172,7,11600,6.21,0,0
+Toyota,Innova Hycross,MPV,Premium,2023,Petrol,Automatic,2150000,16.1,,1987,172,7,12100,6.21,0,0
+Toyota,Fortuner,SUV,Premium,2022,Diesel,Manual,3370000,14.4,,2755,201,7,18000,6.25,0,1
+Toyota,Fortuner,SUV,Premium,2022,Diesel,Manual,3750000,14.4,,2755,201,7,20000,6.25,0,1
+Toyota,Fortuner,SUV,Premium,2022,Diesel,Manual,4130000,14.4,,2755,201,7,19900,6.25,0,1
+Toyota,Fortuner,SUV,Premium,2022,Diesel,Automatic,3870000,14.4,,2755,201,7,20100,6.25,0,1
+Toyota,Fortuner,SUV,Premium,2022,Diesel,Automatic,4250000,14.4,,2755,201,7,20400,6.25,0,1
+Toyota,Fortuner,SUV,Premium,2022,Diesel,Automatic,4630000,14.4,,2755,201,7,24300,6.25,0,1
+Toyota,Fortuner,SUV,Premium,2022,Petrol,Manual,3340000,10.0,,2694,164,7,17500,10.0,0,1
+Toyota,Fortuner,SUV,Premium,2022,Petrol,Manual,3430000,10.0,,2694,164,7,18400,10.0,0,1
+Toyota,Fortuner,SUV,Premium,2022,Petrol,Manual,3510000,10.0,,2694,164,7,18000,10.0,0,1
+Toyota,Fortuner,SUV,Premium,2022,Petrol,Automatic,3460000,10.0,,2694,164,7,19000,10.0,0,1
+Toyota,Fortuner,SUV,Premium,2022,Petrol,Automatic,3540000,10.0,,2694,164,7,18100,10.0,0,1
+Toyota,Fortuner,SUV,Premium,2022,Petrol,Automatic,3630000,10.0,,2694,164,7,17700,10.0,0,1
+Toyota,Camry,Sedan,Premium,2024,Hybrid,Automatic,4800000,23.2,,2487,218,5,25100,4.31,0,0
+Toyota,Camry,Sedan,Premium,2024,Hybrid,Automatic,4820000,23.2,,2487,218,5,24800,4.31,0,0
+Toyota,Camry,Sedan,Premium,2024,Hybrid,Automatic,4850000,23.2,,2487,218,5,23500,4.31,0,0
+Toyota,Vellfire,MPV,Luxury,2023,Hybrid,Automatic,12200000,16.4,,2487,190,7,57900,6.1,0,0
+Toyota,Vellfire,MPV,Luxury,2023,Hybrid,Automatic,12250000,16.4,,2487,190,7,54700,6.1,0,0
+Toyota,Vellfire,MPV,Luxury,2023,Hybrid,Automatic,12300000,16.4,,2487,190,7,54300,6.1,0,0
+Toyota,Land Cruiser 300,SUV,Luxury,2022,Diesel,Automatic,21000000,10.0,,3346,304,7,88700,9.0,0,1
+Toyota,Land Cruiser 300,SUV,Luxury,2022,Diesel,Automatic,22100000,10.0,,3346,304,7,98500,9.0,0,1
+Toyota,Land Cruiser 300,SUV,Luxury,2022,Diesel,Automatic,23200000,10.0,,3346,304,7,106700,9.0,0,1
+Honda,Amaze,Sedan,Mainstream,2024,Petrol,Manual,800000,18.7,,1199,89,5,6900,5.35,0,0
+Honda,Amaze,Sedan,Mainstream,2024,Petrol,Manual,890000,18.7,,1199,89,5,7600,5.35,0,0
+Honda,Amaze,Sedan,Mainstream,2024,Petrol,Manual,970000,18.7,,1199,89,5,7300,5.35,0,0
+Honda,Amaze,Sedan,Mainstream,2024,Petrol,Automatic,920000,18.7,,1199,89,5,7300,5.35,0,0
+Honda,Amaze,Sedan,Mainstream,2024,Petrol,Automatic,1000000,18.7,,1199,89,5,7300,5.35,0,0
+Honda,Amaze,Sedan,Mainstream,2024,Petrol,Automatic,1090000,18.7,,1199,89,5,7800,5.35,0,0
+Honda,City,Sedan,Mainstream,2023,Petrol,Manual,1180000,17.8,,1498,119,5,8400,5.62,0,0
+Honda,City,Sedan,Mainstream,2023,Petrol,Manual,1320000,17.8,,1498,119,5,9200,5.62,0,0
+Honda,City,Sedan,Mainstream,2023,Petrol,Manual,1460000,17.8,,1498,119,5,9800,5.62,0,0
+Honda,City,Sedan,Mainstream,2023,Petrol,Automatic,1360000,17.8,,1498,119,5,9200,5.62,0,0
+Honda,City,Sedan,Mainstream,2023,Petrol,Automatic,1500000,17.8,,1498,119,5,10100,5.62,0,0
+Honda,City,Sedan,Mainstream,2023,Petrol,Automatic,1640000,17.8,,1498,119,5,10600,5.62,0,0
+Honda,City,Sedan,Mainstream,2023,Hybrid,Automatic,1900000,27.1,,1498,126,5,10800,3.69,0,0
+Honda,City,Sedan,Mainstream,2023,Hybrid,Automatic,1980000,27.1,,1498,126,5,11800,3.69,0,0
+Honda,City,Sedan,Mainstream,2023,Hybrid,Automatic,2060000,27.1,,1498,126,5,11900,3.69,0,0
+Honda,Elevate,SUV,Mainstream,2023,Petrol,Manual,1190000,15.3,,1498,119,5,8600,6.54,0,0
+Honda,Elevate,SUV,Mainstream,2023,Petrol,Manual,1340000,15.3,,1498,119,5,8800,6.54,0,0
+Honda,Elevate,SUV,Mainstream,2023,Petrol,Manual,1490000,15.3,,1498,119,5,9200,6.54,0,0
+Honda,Elevate,SUV,Mainstream,2023,Petrol,Automatic,1390000,15.3,,1498,119,5,9600,6.54,0,0
+Honda,Elevate,SUV,Mainstream,2023,Petrol,Automatic,1540000,15.3,,1498,119,5,9800,6.54,0,0
+Honda,Elevate,SUV,Mainstream,2023,Petrol,Automatic,1690000,15.3,,1498,119,5,10300,6.54,0,0
+Renault,Kwid,Hatchback,Budget,2022,Petrol,Manual,470000,21.5,,999,67,5,5600,4.65,0,0
+Renault,Kwid,Hatchback,Budget,2022,Petrol,Manual,520000,21.5,,999,67,5,5700,4.65,0,0
+Renault,Kwid,Hatchback,Budget,2022,Petrol,Manual,570000,21.5,,999,67,5,5900,4.65,0,0
+Renault,Kwid,Hatchback,Budget,2022,Petrol,Automatic,540000,21.5,,999,67,5,5500,4.65,0,0
+Renault,Kwid,Hatchback,Budget,2022,Petrol,Automatic,590000,21.5,,999,67,5,6200,4.65,0,0
+Renault,Kwid,Hatchback,Budget,2022,Petrol,Automatic,640000,21.5,,999,67,5,5900,4.65,0,0
+Renault,Triber,MPV,Budget,2022,Petrol,Manual,610000,20.0,,999,71,7,6100,5.0,0,0
+Renault,Triber,MPV,Budget,2022,Petrol,Manual,690000,20.0,,999,71,7,6600,5.0,0,0
+Renault,Triber,MPV,Budget,2022,Petrol,Manual,770000,20.0,,999,71,7,6300,5.0,0,0
+Renault,Triber,MPV,Budget,2022,Petrol,Automatic,720000,20.0,,999,71,7,6400,5.0,0,0
+Renault,Triber,MPV,Budget,2022,Petrol,Automatic,800000,20.0,,999,71,7,7100,5.0,0,0
+Renault,Triber,MPV,Budget,2022,Petrol,Automatic,880000,20.0,,999,71,7,7100,5.0,0,0
+Renault,Kiger,SUV,Mainstream,2022,Petrol,Manual,600000,19.2,,999,71,5,6100,5.21,0,0
+Renault,Kiger,SUV,Mainstream,2022,Petrol,Manual,760000,19.2,,999,71,5,6400,5.21,0,0
+Renault,Kiger,SUV,Mainstream,2022,Petrol,Manual,910000,19.2,,999,71,5,7100,5.21,0,0
+Renault,Kiger,SUV,Mainstream,2022,Petrol,Automatic,810000,19.2,,999,71,5,7000,5.21,0,0
+Renault,Kiger,SUV,Mainstream,2022,Petrol,Automatic,960000,19.2,,999,71,5,7500,5.21,0,0
+Renault,Kiger,SUV,Mainstream,2022,Petrol,Automatic,1120000,19.2,,999,71,5,7700,5.21,0,0
+Renault,Kiger,SUV,Mainstream,2022,Petrol,Manual,970000,17.9,,999,98,5,8000,5.59,0,0
+Renault,Kiger,SUV,Mainstream,2022,Petrol,Manual,1010000,17.9,,999,98,5,7900,5.59,0,0
+Renault,Kiger,SUV,Mainstream,2022,Petrol,Manual,1060000,17.9,,999,98,5,8000,5.59,0,0
+Renault,Kiger,SUV,Mainstream,2022,Petrol,Automatic,1030000,17.9,,999,98,5,7700,5.59,0,0
+Renault,Kiger,SUV,Mainstream,2022,Petrol,Automatic,1080000,17.9,,999,98,5,8000,5.59,0,0
+Renault,Kiger,SUV,Mainstream,2022,Petrol,Automatic,1120000,17.9,,999,98,5,7700,5.59,0,0
+Nissan,Magnite,SUV,Mainstream,2024,Petrol,Manual,610000,19.9,,999,71,5,5700,5.03,0,0
+Nissan,Magnite,SUV,Mainstream,2024,Petrol,Manual,760000,19.9,,999,71,5,7000,5.03,0,0
+Nissan,Magnite,SUV,Mainstream,2024,Petrol,Manual,920000,19.9,,999,71,5,7700,5.03,0,0
+Nissan,Magnite,SUV,Mainstream,2024,Petrol,Automatic,810000,19.9,,999,71,5,6800,5.03,0,0
+Nissan,Magnite,SUV,Mainstream,2024,Petrol,Automatic,970000,19.9,,999,71,5,7200,5.03,0,0
+Nissan,Magnite,SUV,Mainstream,2024,Petrol,Automatic,1120000,19.9,,999,71,5,7900,5.03,0,0
+Nissan,Magnite,SUV,Mainstream,2024,Petrol,Manual,950000,17.9,,999,99,5,7300,5.59,0,0
+Nissan,Magnite,SUV,Mainstream,2024,Petrol,Manual,1000000,17.9,,999,99,5,8000,5.59,0,0
+Nissan,Magnite,SUV,Mainstream,2024,Petrol,Manual,1050000,17.9,,999,99,5,8300,5.59,0,0
+Nissan,Magnite,SUV,Mainstream,2024,Petrol,Automatic,1020000,17.9,,999,99,5,7400,5.59,0,0
+Nissan,Magnite,SUV,Mainstream,2024,Petrol,Automatic,1070000,17.9,,999,99,5,8400,5.59,0,0
+Nissan,Magnite,SUV,Mainstream,2024,Petrol,Automatic,1120000,17.9,,999,99,5,7900,5.59,0,0
+Skoda,Kylaq,SUV,Mainstream,2025,Petrol,Manual,790000,19.7,,999,114,5,6600,5.08,0,0
+Skoda,Kylaq,SUV,Mainstream,2025,Petrol,Manual,990000,19.7,,999,114,5,8000,5.08,0,0
+Skoda,Kylaq,SUV,Mainstream,2025,Petrol,Manual,1180000,19.7,,999,114,5,8000,5.08,0,0
+Skoda,Kylaq,SUV,Mainstream,2025,Petrol,Automatic,1050000,19.7,,999,114,5,7500,5.08,0,0
+Skoda,Kylaq,SUV,Mainstream,2025,Petrol,Automatic,1240000,19.7,,999,114,5,8300,5.08,0,0
+Skoda,Kylaq,SUV,Mainstream,2025,Petrol,Automatic,1440000,19.7,,999,114,5,9300,5.08,0,0
+Skoda,Slavia,Sedan,Mainstream,2022,Petrol,Manual,1070000,19.4,,999,114,5,8100,5.15,0,0
+Skoda,Slavia,Sedan,Mainstream,2022,Petrol,Manual,1320000,19.4,,999,114,5,9100,5.15,0,0
+Skoda,Slavia,Sedan,Mainstream,2022,Petrol,Manual,1570000,19.4,,999,114,5,10200,5.15,0,0
+Skoda,Slavia,Sedan,Mainstream,2022,Petrol,Automatic,1410000,19.4,,999,114,5,9400,5.15,0,0
+Skoda,Slavia,Sedan,Mainstream,2022,Petrol,Automatic,1660000,19.4,,999,114,5,10700,5.15,0,0
+Skoda,Slavia,Sedan,Mainstream,2022,Petrol,Automatic,1910000,19.4,,999,114,5,11900,5.15,0,0
+Skoda,Slavia,Sedan,Mainstream,2022,Petrol,Manual,1590000,18.1,,1498,148,5,9700,5.52,0,0
+Skoda,Slavia,Sedan,Mainstream,2022,Petrol,Manual,1690000,18.1,,1498,148,5,10200,5.52,0,0
+Skoda,Slavia,Sedan,Mainstream,2022,Petrol,Manual,1780000,18.1,,1498,148,5,11100,5.52,0,0
+Skoda,Slavia,Sedan,Mainstream,2022,Petrol,Automatic,1720000,18.1,,1498,148,5,10600,5.52,0,0
+Skoda,Slavia,Sedan,Mainstream,2022,Petrol,Automatic,1810000,18.1,,1498,148,5,11200,5.52,0,0
+Skoda,Slavia,Sedan,Mainstream,2022,Petrol,Automatic,1910000,18.1,,1498,148,5,11900,5.52,0,0
+Skoda,Kushaq,SUV,Mainstream,2021,Petrol,Manual,1090000,19.8,,999,114,5,8000,5.05,0,0
+Skoda,Kushaq,SUV,Mainstream,2021,Petrol,Manual,1310000,19.8,,999,114,5,9500,5.05,0,0
+Skoda,Kushaq,SUV,Mainstream,2021,Petrol,Manual,1530000,19.8,,999,114,5,9900,5.05,0,0
+Skoda,Kushaq,SUV,Mainstream,2021,Petrol,Automatic,1390000,19.8,,999,114,5,9700,5.05,0,0
+Skoda,Kushaq,SUV,Mainstream,2021,Petrol,Automatic,1610000,19.8,,999,114,5,10000,5.05,0,0
+Skoda,Kushaq,SUV,Mainstream,2021,Petrol,Automatic,1830000,19.8,,999,114,5,10800,5.05,0,0
+Skoda,Kushaq,SUV,Mainstream,2021,Petrol,Manual,1600000,18.1,,1498,148,5,10400,5.52,0,0
+Skoda,Kushaq,SUV,Mainstream,2021,Petrol,Manual,1690000,18.1,,1498,148,5,10200,5.52,0,0
+Skoda,Kushaq,SUV,Mainstream,2021,Petrol,Manual,1780000,18.1,,1498,148,5,11100,5.52,0,0
+Skoda,Kushaq,SUV,Mainstream,2021,Petrol,Automatic,1720000,18.1,,1498,148,5,10600,5.52,0,0
+Skoda,Kushaq,SUV,Mainstream,2021,Petrol,Automatic,1810000,18.1,,1498,148,5,11200,5.52,0,0
+Skoda,Kushaq,SUV,Mainstream,2021,Petrol,Automatic,1900000,18.1,,1498,148,5,12000,5.52,0,0
+Skoda,Kodiaq,SUV,Premium,2025,Petrol,Automatic,4000000,12.0,,1984,187,7,20000,8.33,0,0
+Skoda,Kodiaq,SUV,Premium,2025,Petrol,Automatic,4300000,12.0,,1984,187,7,21800,8.33,0,0
+Skoda,Kodiaq,SUV,Premium,2025,Petrol,Automatic,4600000,12.0,,1984,187,7,23800,8.33,0,0
+Skoda,Superb,Sedan,Premium,2024,Petrol,Automatic,5400000,14.0,,1984,187,5,26300,7.14,0,0
+Skoda,Superb,Sedan,Premium,2024,Petrol,Automatic,5500000,14.0,,1984,187,5,27700,7.14,0,0
+Skoda,Superb,Sedan,Premium,2024,Petrol,Automatic,5600000,14.0,,1984,187,5,28100,7.14,0,0
+Volkswagen,Virtus,Sedan,Mainstream,2022,Petrol,Manual,1160000,19.4,,999,114,5,8300,5.15,0,0
+Volkswagen,Virtus,Sedan,Mainstream,2022,Petrol,Manual,1390000,19.4,,999,114,5,9500,5.15,0,0
+Volkswagen,Virtus,Sedan,Mainstream,2022,Petrol,Manual,1630000,19.4,,999,114,5,10100,5.15,0,0
+Volkswagen,Virtus,Sedan,Mainstream,2022,Petrol,Automatic,1470000,19.4,,999,114,5,9700,5.15,0,0
+Volkswagen,Virtus,Sedan,Mainstream,2022,Petrol,Automatic,1710000,19.4,,999,114,5,11000,5.15,0,0
+Volkswagen,Virtus,Sedan,Mainstream,2022,Petrol,Automatic,1940000,19.4,,999,114,5,11400,5.15,0,0
+Volkswagen,Virtus,Sedan,Mainstream,2022,Petrol,Manual,1550000,18.1,,1498,148,5,9900,5.52,0,0
+Volkswagen,Virtus,Sedan,Mainstream,2022,Petrol,Manual,1670000,18.1,,1498,148,5,10600,5.52,0,0
+Volkswagen,Virtus,Sedan,Mainstream,2022,Petrol,Manual,1780000,18.1,,1498,148,5,11500,5.52,0,0
+Volkswagen,Virtus,Sedan,Mainstream,2022,Petrol,Automatic,1710000,18.1,,1498,148,5,11000,5.52,0,0
+Volkswagen,Virtus,Sedan,Mainstream,2022,Petrol,Automatic,1820000,18.1,,1498,148,5,11400,5.52,0,0
+Volkswagen,Virtus,Sedan,Mainstream,2022,Petrol,Automatic,1940000,18.1,,1498,148,5,11400,5.52,0,0
+Volkswagen,Taigun,SUV,Mainstream,2021,Petrol,Manual,1170000,19.2,,999,114,5,8500,5.21,0,0
+Volkswagen,Taigun,SUV,Mainstream,2021,Petrol,Manual,1410000,19.2,,999,114,5,9600,5.21,0,0
+Volkswagen,Taigun,SUV,Mainstream,2021,Petrol,Manual,1650000,19.2,,999,114,5,11000,5.21,0,0
+Volkswagen,Taigun,SUV,Mainstream,2021,Petrol,Automatic,1490000,19.2,,999,114,5,9500,5.21,0,0
+Volkswagen,Taigun,SUV,Mainstream,2021,Petrol,Automatic,1730000,19.2,,999,114,5,10700,5.21,0,0
+Volkswagen,Taigun,SUV,Mainstream,2021,Petrol,Automatic,1970000,19.2,,999,114,5,12100,5.21,0,0
+Volkswagen,Taigun,SUV,Mainstream,2021,Petrol,Manual,1600000,18.2,,1498,148,5,10800,5.49,0,0
+Volkswagen,Taigun,SUV,Mainstream,2021,Petrol,Manual,1710000,18.2,,1498,148,5,11000,5.49,0,0
+Volkswagen,Taigun,SUV,Mainstream,2021,Petrol,Manual,1820000,18.2,,1498,148,5,11400,5.49,0,0
+Volkswagen,Taigun,SUV,Mainstream,2021,Petrol,Automatic,1750000,18.2,,1498,148,5,11100,5.49,0,0
+Volkswagen,Taigun,SUV,Mainstream,2021,Petrol,Automatic,1860000,18.2,,1498,148,5,10800,5.49,0,0
+Volkswagen,Taigun,SUV,Mainstream,2021,Petrol,Automatic,1970000,18.2,,1498,148,5,12100,5.49,0,0
+Volkswagen,Tiguan,SUV,Premium,2025,Petrol,Automatic,4900000,12.6,,1984,187,5,25400,7.94,0,0
+Volkswagen,Tiguan,SUV,Premium,2025,Petrol,Automatic,4950000,12.6,,1984,187,5,25500,7.94,0,0
+Volkswagen,Tiguan,SUV,Premium,2025,Petrol,Automatic,5000000,12.6,,1984,187,5,24300,7.94,0,0
+Volkswagen,Golf GTI,Hatchback,Premium,2025,Petrol,Automatic,5200000,12.0,,1984,261,5,26800,8.33,0,0
+Volkswagen,Golf GTI,Hatchback,Premium,2025,Petrol,Automatic,5250000,12.0,,1984,261,5,25000,8.33,0,0
+Volkswagen,Golf GTI,Hatchback,Premium,2025,Petrol,Automatic,5300000,12.0,,1984,261,5,25800,8.33,0,0
+MG,Comet EV,Hatchback,Mainstream,2023,Electric,Automatic,700000,,230,,41,4,3700,1.2,0,0
+MG,Comet EV,Hatchback,Mainstream,2023,Electric,Automatic,850000,,230,,41,4,4500,1.2,0,0
+MG,Comet EV,Hatchback,Mainstream,2023,Electric,Automatic,1000000,,230,,41,4,4500,1.2,0,0
+MG,Astor,SUV,Mainstream,2021,Petrol,Manual,1000000,14.8,,1498,108,5,7500,6.76,0,0
+MG,Astor,SUV,Mainstream,2021,Petrol,Manual,1220000,14.8,,1498,108,5,8500,6.76,0,0
+MG,Astor,SUV,Mainstream,2021,Petrol,Manual,1450000,14.8,,1498,108,5,10000,6.76,0,0
+MG,Astor,SUV,Mainstream,2021,Petrol,Automatic,1300000,14.8,,1498,108,5,8500,6.76,0,0
+MG,Astor,SUV,Mainstream,2021,Petrol,Automatic,1520000,14.8,,1498,108,5,9600,6.76,0,0
+MG,Astor,SUV,Mainstream,2021,Petrol,Automatic,1750000,14.8,,1498,108,5,10500,6.76,0,0
+MG,Hector,SUV,Mainstream,2023,Petrol,Manual,1400000,14.0,,1451,141,5,9200,7.14,0,0
+MG,Hector,SUV,Mainstream,2023,Petrol,Manual,1660000,14.0,,1451,141,5,10700,7.14,0,0
+MG,Hector,SUV,Mainstream,2023,Petrol,Manual,1910000,14.0,,1451,141,5,11500,7.14,0,0
+MG,Hector,SUV,Mainstream,2023,Petrol,Automatic,1740000,14.0,,1451,141,5,11300,7.14,0,0
+MG,Hector,SUV,Mainstream,2023,Petrol,Automatic,2000000,14.0,,1451,141,5,12400,7.14,0,0
+MG,Hector,SUV,Mainstream,2023,Petrol,Automatic,2250000,14.0,,1451,141,5,12500,7.14,0,0
+MG,Hector,SUV,Mainstream,2023,Diesel,Manual,1700000,16.5,,1956,167,5,11100,5.45,0,0
+MG,Hector,SUV,Mainstream,2023,Diesel,Manual,1980000,16.5,,1956,167,5,12100,5.45,0,0
+MG,Hector,SUV,Mainstream,2023,Diesel,Manual,2250000,16.5,,1956,167,5,12500,5.45,0,0
+MG,Hector Plus,SUV,Premium,2023,Petrol,Manual,1750000,14.0,,1451,141,7,10500,7.14,0,0
+MG,Hector Plus,SUV,Premium,2023,Petrol,Manual,1910000,14.0,,1451,141,7,11500,7.14,0,0
+MG,Hector Plus,SUV,Premium,2023,Petrol,Manual,2080000,14.0,,1451,141,7,11600,7.14,0,0
+MG,Hector Plus,SUV,Premium,2023,Petrol,Automatic,1970000,14.0,,1451,141,7,12100,7.14,0,0
+MG,Hector Plus,SUV,Premium,2023,Petrol,Automatic,2140000,14.0,,1451,141,7,13100,7.14,0,0
+MG,Hector Plus,SUV,Premium,2023,Petrol,Automatic,2300000,14.0,,1451,141,7,12600,7.14,0,0
+MG,Hector Plus,SUV,Premium,2023,Diesel,Manual,1870000,16.5,,1956,167,7,11600,5.45,0,0
+MG,Hector Plus,SUV,Premium,2023,Diesel,Manual,2090000,16.5,,1956,167,7,12000,5.45,0,0
+MG,Hector Plus,SUV,Premium,2023,Diesel,Manual,2300000,16.5,,1956,167,7,12400,5.45,0,0
+MG,Windsor EV,MPV,Mainstream,2024,Electric,Automatic,1400000,,332,,134,5,5900,1.2,0,0
+MG,Windsor EV,MPV,Mainstream,2024,Electric,Automatic,1500000,,332,,134,5,5700,1.2,0,0
+MG,Windsor EV,MPV,Mainstream,2024,Electric,Automatic,1600000,,332,,134,5,6300,1.2,0,0
+MG,ZS EV,SUV,Premium,2022,Electric,Automatic,1900000,,461,,174,5,6500,1.2,0,0
+MG,ZS EV,SUV,Premium,2022,Electric,Automatic,2220000,,461,,174,5,7400,1.2,0,0
+MG,ZS EV,SUV,Premium,2022,Electric,Automatic,2540000,,461,,174,5,8900,1.2,0,0
+MG,Gloster,SUV,Premium,2020,Diesel,Manual,3960000,12.0,,1996,215,7,20000,7.5,0,1
+MG,Gloster,SUV,Premium,2020,Diesel,Manual,4090000,12.0,,1996,215,7,20300,7.5,0,1
+MG,Gloster,SUV,Premium,2020,Diesel,Manual,4220000,12.0,,1996,215,7,22200,7.5,0,1
+MG,Gloster,SUV,Premium,2020,Diesel,Automatic,4140000,12.0,,1996,215,7,19800,7.5,0,1
+MG,Gloster,SUV,Premium,2020,Diesel,Automatic,4270000,12.0,,1996,215,7,20900,7.5,0,1
+MG,Gloster,SUV,Premium,2020,Diesel,Automatic,4400000,12.0,,1996,215,7,20900,7.5,0,1
+MG,Cyberster,Coupe,Luxury,2025,Electric,Automatic,7500000,,580,,510,2,21500,1.2,0,0
+MG,Cyberster,Coupe,Luxury,2025,Electric,Automatic,7600000,,580,,510,2,22500,1.2,0,0
+MG,Cyberster,Coupe,Luxury,2025,Electric,Automatic,7700000,,580,,510,2,22700,1.2,0,0
+Jeep,Compass,SUV,Premium,2022,Diesel,Manual,1900000,14.9,,1956,168,5,11500,6.04,0,0
+Jeep,Compass,SUV,Premium,2022,Diesel,Manual,2290000,14.9,,1956,168,5,13300,6.04,0,0
+Jeep,Compass,SUV,Premium,2022,Diesel,Manual,2680000,14.9,,1956,168,5,14400,6.04,0,0
+Jeep,Compass,SUV,Premium,2022,Diesel,Automatic,2420000,14.9,,1956,168,5,14400,6.04,0,0
+Jeep,Compass,SUV,Premium,2022,Diesel,Automatic,2810000,14.9,,1956,168,5,15100,6.04,0,0
+Jeep,Compass,SUV,Premium,2022,Diesel,Automatic,3200000,14.9,,1956,168,5,17100,6.04,0,0
+Jeep,Meridian,SUV,Premium,2022,Diesel,Manual,2500000,14.0,,1956,168,7,14500,6.43,0,0
+Jeep,Meridian,SUV,Premium,2022,Diesel,Manual,2910000,14.0,,1956,168,7,15900,6.43,0,0
+Jeep,Meridian,SUV,Premium,2022,Diesel,Manual,3320000,14.0,,1956,168,7,16800,6.43,0,0
+Jeep,Meridian,SUV,Premium,2022,Diesel,Automatic,3050000,14.0,,1956,168,7,15700,6.43,0,0
+Jeep,Meridian,SUV,Premium,2022,Diesel,Automatic,3460000,14.0,,1956,168,7,18400,6.43,0,0
+Jeep,Meridian,SUV,Premium,2022,Diesel,Automatic,3870000,14.0,,1956,168,7,18800,6.43,0,0
+Jeep,Wrangler,SUV,Luxury,2021,Petrol,Automatic,6770000,10.6,,1995,268,4,31200,9.43,0,1
+Jeep,Wrangler,SUV,Luxury,2021,Petrol,Automatic,6930000,10.6,,1995,268,4,32100,9.43,0,1
+Jeep,Wrangler,SUV,Luxury,2021,Petrol,Automatic,7100000,10.6,,1995,268,4,33400,9.43,0,1
+Citroen,C3,Hatchback,Mainstream,2022,Petrol,Manual,620000,19.8,,1198,82,5,6100,5.05,0,0
+Citroen,C3,Hatchback,Mainstream,2022,Petrol,Manual,740000,19.8,,1198,82,5,6400,5.05,0,0
+Citroen,C3,Hatchback,Mainstream,2022,Petrol,Manual,850000,19.8,,1198,82,5,7300,5.05,0,0
+Citroen,C3,Hatchback,Mainstream,2022,Petrol,Manual,890000,19.4,,1199,108,5,7400,5.15,0,0
+Citroen,C3,Hatchback,Mainstream,2022,Petrol,Manual,1010000,19.4,,1199,108,5,7400,5.15,0,0
+Citroen,C3,Hatchback,Mainstream,2022,Petrol,Manual,1120000,19.4,,1199,108,5,8600,5.15,0,0
+Citroen,C3,Hatchback,Mainstream,2022,Petrol,Automatic,1050000,19.4,,1199,108,5,8200,5.15,0,0
+Citroen,C3,Hatchback,Mainstream,2022,Petrol,Automatic,1160000,19.4,,1199,108,5,8500,5.15,0,0
+Citroen,C3,Hatchback,Mainstream,2022,Petrol,Automatic,1280000,19.4,,1199,108,5,8400,5.15,0,0
+Citroen,eC3,Hatchback,Mainstream,2023,Electric,Automatic,1280000,,320,,56,5,5400,1.2,0,0
+Citroen,eC3,Hatchback,Mainstream,2023,Electric,Automatic,1320000,,320,,56,5,5200,1.2,0,0
+Citroen,eC3,Hatchback,Mainstream,2023,Electric,Automatic,1370000,,320,,56,5,5900,1.2,0,0
+Citroen,Basalt,SUV,Mainstream,2024,Petrol,Manual,800000,18.9,,1199,108,5,6800,5.29,0,0
+Citroen,Basalt,SUV,Mainstream,2024,Petrol,Manual,980000,18.9,,1199,108,5,7700,5.29,0,0
+Citroen,Basalt,SUV,Mainstream,2024,Petrol,Manual,1170000,18.9,,1199,108,5,8500,5.29,0,0
+Citroen,Basalt,SUV,Mainstream,2024,Petrol,Automatic,1040000,18.9,,1199,108,5,7600,5.29,0,0
+Citroen,Basalt,SUV,Mainstream,2024,Petrol,Automatic,1230000,18.9,,1199,108,5,8700,5.29,0,0
+Citroen,Basalt,SUV,Mainstream,2024,Petrol,Automatic,1410000,18.9,,1199,108,5,9700,5.29,0,0
+Citroen,C3 Aircross,SUV,Mainstream,2023,Petrol,Manual,1000000,18.5,,1199,108,5,7700,5.41,0,0
+Citroen,C3 Aircross,SUV,Mainstream,2023,Petrol,Manual,1220000,18.5,,1199,108,5,8100,5.41,0,0
+Citroen,C3 Aircross,SUV,Mainstream,2023,Petrol,Manual,1450000,18.5,,1199,108,5,9800,5.41,0,0
+Citroen,C3 Aircross,SUV,Mainstream,2023,Petrol,Automatic,1300000,18.5,,1199,108,5,9300,5.41,0,0
+Citroen,C3 Aircross,SUV,Mainstream,2023,Petrol,Automatic,1520000,18.5,,1199,108,5,10000,5.41,0,0
+Citroen,C3 Aircross,SUV,Mainstream,2023,Petrol,Automatic,1750000,18.5,,1199,108,5,10700,5.41,0,0
+BYD,Atto 3,SUV,Premium,2022,Electric,Automatic,2500000,,521,,201,5,8700,1.2,0,0
+BYD,Atto 3,SUV,Premium,2022,Electric,Automatic,2950000,,521,,201,5,9200,1.2,0,0
+BYD,Atto 3,SUV,Premium,2022,Electric,Automatic,3400000,,521,,201,5,10100,1.2,0,0
+BYD,Seal,Sedan,Premium,2024,Electric,Automatic,4100000,,650,,308,5,12500,1.2,0,0
+BYD,Seal,Sedan,Premium,2024,Electric,Automatic,4700000,,650,,308,5,13300,1.2,0,0
+BYD,Seal,Sedan,Premium,2024,Electric,Automatic,5300000,,650,,308,5,15500,1.2,0,0
+BYD,Sealion 7,SUV,Premium,2025,Electric,Automatic,4890000,,567,,308,5,14300,1.2,0,0
+BYD,Sealion 7,SUV,Premium,2025,Electric,Automatic,5190000,,567,,308,5,14600,1.2,0,0
+BYD,Sealion 7,SUV,Premium,2025,Electric,Automatic,5490000,,567,,308,5,16900,1.2,0,0
+BYD,eMax 7,MPV,Premium,2022,Electric,Automatic,2690000,,530,,161,7,8800,1.2,0,0
+BYD,eMax 7,MPV,Premium,2022,Electric,Automatic,2820000,,530,,161,7,9000,1.2,0,0
+BYD,eMax 7,MPV,Premium,2022,Electric,Automatic,2950000,,530,,161,7,9200,1.2,0,0
+Mercedes-Benz,GLA,SUV,Luxury,2021,Petrol,Automatic,5050000,14.2,,1332,161,5,26400,7.04,0,0
+Mercedes-Benz,GLA,SUV,Luxury,2021,Petrol,Automatic,5220000,14.2,,1332,161,5,29400,7.04,0,0
+Mercedes-Benz,GLA,SUV,Luxury,2021,Petrol,Automatic,5400000,14.2,,1332,161,5,28500,7.04,0,0
+Mercedes-Benz,GLA,SUV,Luxury,2021,Diesel,Automatic,5600000,17.4,,1950,187,5,31600,5.17,0,0
+Mercedes-Benz,GLA,SUV,Luxury,2021,Diesel,Automatic,5700000,17.4,,1950,187,5,32400,5.17,0,0
+Mercedes-Benz,GLA,SUV,Luxury,2021,Diesel,Automatic,5800000,17.4,,1950,187,5,32700,5.17,0,0
+Mercedes-Benz,EQA,SUV,Luxury,2024,Electric,Automatic,6700000,,560,,188,5,23200,1.2,0,0
+Mercedes-Benz,EQA,SUV,Luxury,2024,Electric,Automatic,6750000,,560,,188,5,22700,1.2,0,0
+Mercedes-Benz,EQA,SUV,Luxury,2024,Electric,Automatic,6800000,,560,,188,5,23300,1.2,0,0
+Mercedes-Benz,C-Class,Sedan,Luxury,2022,Petrol,Automatic,5990000,16.0,,1496,201,5,32200,6.25,0,0
+Mercedes-Benz,C-Class,Sedan,Luxury,2022,Petrol,Automatic,6100000,16.0,,1496,201,5,33200,6.25,0,0
+Mercedes-Benz,C-Class,Sedan,Luxury,2022,Petrol,Automatic,6200000,16.0,,1496,201,5,34300,6.25,0,0
+Mercedes-Benz,C-Class,Sedan,Luxury,2022,Diesel,Automatic,6500000,20.0,,1993,197,5,35400,4.5,0,0
+Mercedes-Benz,C-Class,Sedan,Luxury,2022,Diesel,Automatic,6600000,20.0,,1993,197,5,34200,4.5,0,0
+Mercedes-Benz,C-Class,Sedan,Luxury,2022,Diesel,Automatic,6700000,20.0,,1993,197,5,39000,4.5,0,0
+Mercedes-Benz,E-Class,Sedan,Luxury,2024,Petrol,Automatic,7700000,14.0,,1999,201,5,44600,7.14,0,0
+Mercedes-Benz,E-Class,Sedan,Luxury,2024,Petrol,Automatic,7850000,14.0,,1999,201,5,42500,7.14,0,0
+Mercedes-Benz,E-Class,Sedan,Luxury,2024,Petrol,Automatic,8000000,14.0,,1999,201,5,43600,7.14,0,0
+Mercedes-Benz,E-Class,Sedan,Luxury,2024,Diesel,Automatic,8100000,18.0,,1993,194,5,42400,5.0,0,0
+Mercedes-Benz,E-Class,Sedan,Luxury,2024,Diesel,Automatic,8250000,18.0,,1993,194,5,45000,5.0,0,0
+Mercedes-Benz,E-Class,Sedan,Luxury,2024,Diesel,Automatic,8400000,18.0,,1993,194,5,43900,5.0,0,0
+Mercedes-Benz,S-Class,Sedan,Luxury,2021,Petrol,Automatic,18800000,11.0,,2999,362,5,104200,9.09,0,0
+Mercedes-Benz,S-Class,Sedan,Luxury,2021,Petrol,Automatic,19000000,11.0,,2999,362,5,105200,9.09,0,0
+Mercedes-Benz,S-Class,Sedan,Luxury,2021,Petrol,Automatic,19200000,11.0,,2999,362,5,111200,9.09,0,0
+Mercedes-Benz,S-Class,Sedan,Luxury,2021,Diesel,Automatic,19000000,14.0,,2925,286,5,110600,6.43,0,0
+Mercedes-Benz,S-Class,Sedan,Luxury,2021,Diesel,Automatic,19250000,14.0,,2925,286,5,106700,6.43,0,0
+Mercedes-Benz,S-Class,Sedan,Luxury,2021,Diesel,Automatic,19500000,14.0,,2925,286,5,103200,6.43,0,0
+Mercedes-Benz,GLC,SUV,Luxury,2023,Petrol,Automatic,7680000,12.0,,1999,254,5,43300,8.33,0,0
+Mercedes-Benz,GLC,SUV,Luxury,2023,Petrol,Automatic,7740000,12.0,,1999,254,5,43300,8.33,0,0
+Mercedes-Benz,GLC,SUV,Luxury,2023,Petrol,Automatic,7800000,12.0,,1999,254,5,44400,8.33,0,0
+Mercedes-Benz,GLC,SUV,Luxury,2023,Diesel,Automatic,7650000,16.0,,1993,197,5,44400,5.62,0,0
+Mercedes-Benz,GLC,SUV,Luxury,2023,Diesel,Automatic,7750000,16.0,,1993,197,5,40600,5.62,0,0
+Mercedes-Benz,GLC,SUV,Luxury,2023,Diesel,Automatic,7850000,16.0,,1993,197,5,43200,5.62,0,0
+Mercedes-Benz,GLE,SUV,Luxury,2023,Diesel,Automatic,9790000,12.0,,1993,265,5,55100,7.5,0,0
+Mercedes-Benz,GLE,SUV,Luxury,2023,Diesel,Automatic,9940000,12.0,,1993,265,5,51800,7.5,0,0
+Mercedes-Benz,GLE,SUV,Luxury,2023,Diesel,Automatic,10100000,12.0,,1993,265,5,55700,7.5,0,0
+Mercedes-Benz,GLE,SUV,Luxury,2023,Petrol,Automatic,11200000,10.0,,2999,375,5,61200,10.0,0,0
+Mercedes-Benz,GLE,SUV,Luxury,2023,Petrol,Automatic,11500000,10.0,,2999,375,5,64500,10.0,0,0
+Mercedes-Benz,GLE,SUV,Luxury,2023,Petrol,Automatic,11800000,10.0,,2999,375,5,68200,10.0,0,0
+Mercedes-Benz,GLS,SUV,Luxury,2023,Diesel,Automatic,13400000,11.0,,2925,362,7,70200,8.18,0,0
+Mercedes-Benz,GLS,SUV,Luxury,2023,Diesel,Automatic,13650000,11.0,,2925,362,7,71000,8.18,0,0
+Mercedes-Benz,GLS,SUV,Luxury,2023,Diesel,Automatic,13900000,11.0,,2925,362,7,80400,8.18,0,0
+Mercedes-Benz,G-Class,SUV,Luxury,2022,Diesel,Automatic,25500000,10.0,,2925,326,5,133700,9.0,1,1
+Mercedes-Benz,G-Class,SUV,Luxury,2022,Diesel,Automatic,25850000,10.0,,2925,326,5,135000,9.0,1,1
+Mercedes-Benz,G-Class,SUV,Luxury,2022,Diesel,Automatic,26200000,10.0,,2925,326,5,143400,9.0,1,1
+Mercedes-Benz,G-Class,SUV,Luxury,2022,Petrol,Automatic,36000000,7.0,,3982,585,5,200900,14.29,1,1
+Mercedes-Benz,G-Class,SUV,Luxury,2022,Petrol,Automatic,36250000,7.0,,3982,585,5,205500,14.29,1,1
+Mercedes-Benz,G-Class,SUV,Luxury,2022,Petrol,Automatic,36500000,7.0,,3982,585,5,202800,14.29,1,1
+Mercedes-Benz,Maybach S-Class,Sedan,Luxury,2022,Petrol,Automatic,27000000,9.0,,3982,496,4,146700,11.11,1,0
+Mercedes-Benz,Maybach S-Class,Sedan,Luxury,2022,Petrol,Automatic,27500000,9.0,,3982,496,4,158400,11.11,1,0
+Mercedes-Benz,Maybach S-Class,Sedan,Luxury,2022,Petrol,Automatic,28000000,9.0,,3982,496,4,150500,11.11,1,0
+Mercedes-Benz,Maybach GLS,SUV,Luxury,2023,Petrol,Automatic,33000000,8.0,,3982,550,4,176200,12.5,1,0
+Mercedes-Benz,Maybach GLS,SUV,Luxury,2023,Petrol,Automatic,33500000,8.0,,3982,550,4,194600,12.5,1,0
+Mercedes-Benz,Maybach GLS,SUV,Luxury,2023,Petrol,Automatic,34000000,8.0,,3982,550,4,179300,12.5,1,0
+Mercedes-Benz,EQB,MPV,Luxury,2023,Electric,Automatic,7290000,,423,,288,7,23300,1.2,0,0
+Mercedes-Benz,EQB,MPV,Luxury,2023,Electric,Automatic,7520000,,423,,288,7,24100,1.2,0,0
+Mercedes-Benz,EQB,MPV,Luxury,2023,Electric,Automatic,7750000,,423,,288,7,25400,1.2,0,0
+Mercedes-Benz,EQE SUV,SUV,Luxury,2023,Electric,Automatic,13900000,,550,,402,5,45100,1.2,0,0
+Mercedes-Benz,EQE SUV,SUV,Luxury,2023,Electric,Automatic,14050000,,550,,402,5,45500,1.2,0,0
+Mercedes-Benz,EQE SUV,SUV,Luxury,2023,Electric,Automatic,14200000,,550,,402,5,46300,1.2,0,0
+Mercedes-Benz,EQS SUV,SUV,Luxury,2023,Electric,Automatic,14100000,,809,,544,7,49300,1.2,0,0
+Mercedes-Benz,EQS SUV,SUV,Luxury,2023,Electric,Automatic,14450000,,809,,544,7,46100,1.2,0,0
+Mercedes-Benz,EQS SUV,SUV,Luxury,2023,Electric,Automatic,14800000,,809,,544,7,48700,1.2,0,0
+Mercedes-Benz,EQS Sedan,Sedan,Luxury,2022,Electric,Automatic,16200000,,857,,516,5,50900,1.2,0,0
+Mercedes-Benz,EQS Sedan,Sedan,Luxury,2022,Electric,Automatic,16350000,,857,,516,5,56500,1.2,0,0
+Mercedes-Benz,EQS Sedan,Sedan,Luxury,2022,Electric,Automatic,16500000,,857,,516,5,57400,1.2,0,0
+Mercedes-Benz,AMG GT 63,Coupe,Luxury,2024,Petrol,Automatic,33000000,8.0,,3982,630,4,176200,12.5,1,0
+Mercedes-Benz,AMG GT 63,Coupe,Luxury,2024,Petrol,Automatic,33250000,8.0,,3982,630,4,191300,12.5,1,0
+Mercedes-Benz,AMG GT 63,Coupe,Luxury,2024,Petrol,Automatic,33500000,8.0,,3982,630,4,194600,12.5,1,0
+BMW,2 Series Gran Coupe,Sedan,Luxury,2022,Petrol,Automatic,4390000,15.0,,1998,189,5,23500,6.67,0,0
+BMW,2 Series Gran Coupe,Sedan,Luxury,2022,Petrol,Automatic,4540000,15.0,,1998,189,5,24700,6.67,0,0
+BMW,2 Series Gran Coupe,Sedan,Luxury,2022,Petrol,Automatic,4690000,15.0,,1998,189,5,27100,6.67,0,0
+BMW,3 Series Gran Limousine,Sedan,Luxury,2023,Petrol,Automatic,6060000,14.0,,1998,255,5,34800,7.14,0,0
+BMW,3 Series Gran Limousine,Sedan,Luxury,2023,Petrol,Automatic,6130000,14.0,,1998,255,5,34200,7.14,0,0
+BMW,3 Series Gran Limousine,Sedan,Luxury,2023,Petrol,Automatic,6200000,14.0,,1998,255,5,33300,7.14,0,0
+BMW,3 Series Gran Limousine,Sedan,Luxury,2023,Diesel,Automatic,5990000,18.7,,1995,188,5,33400,4.81,0,0
+BMW,3 Series Gran Limousine,Sedan,Luxury,2023,Diesel,Automatic,6040000,18.7,,1995,188,5,32000,4.81,0,0
+BMW,3 Series Gran Limousine,Sedan,Luxury,2023,Diesel,Automatic,6100000,18.7,,1995,188,5,31900,4.81,0,0
+BMW,5 Series,Sedan,Luxury,2024,Petrol,Automatic,7290000,14.0,,1998,255,5,40200,7.14,0,0
+BMW,5 Series,Sedan,Luxury,2024,Petrol,Automatic,7400000,14.0,,1998,255,5,42100,7.14,0,0
+BMW,5 Series,Sedan,Luxury,2024,Petrol,Automatic,7500000,14.0,,1998,255,5,41100,7.14,0,0
+BMW,5 Series,Sedan,Luxury,2024,Diesel,Automatic,7650000,19.0,,1995,190,5,41700,4.74,0,0
+BMW,5 Series,Sedan,Luxury,2024,Diesel,Automatic,7720000,19.0,,1995,190,5,42500,4.74,0,0
+BMW,5 Series,Sedan,Luxury,2024,Diesel,Automatic,7800000,19.0,,1995,190,5,41300,4.74,0,0
+BMW,7 Series,Sedan,Luxury,2023,Petrol,Automatic,18000000,11.0,,2998,380,5,103100,9.09,0,0
+BMW,7 Series,Sedan,Luxury,2023,Petrol,Automatic,18250000,11.0,,2998,380,5,103400,9.09,0,0
+BMW,7 Series,Sedan,Luxury,2023,Petrol,Automatic,18500000,11.0,,2998,380,5,107400,9.09,0,0
+BMW,7 Series,Sedan,Luxury,2023,Diesel,Automatic,18400000,14.0,,2993,281,5,107000,6.43,0,0
+BMW,7 Series,Sedan,Luxury,2023,Diesel,Automatic,18600000,14.0,,2993,281,5,104100,6.43,0,0
+BMW,7 Series,Sedan,Luxury,2023,Diesel,Automatic,18800000,14.0,,2993,281,5,107900,6.43,0,0
+BMW,i7,Sedan,Luxury,2023,Electric,Automatic,20300000,,625,,536,5,69000,1.2,0,0
+BMW,i7,Sedan,Luxury,2023,Electric,Automatic,20750000,,625,,536,5,67000,1.2,0,0
+BMW,i7,Sedan,Luxury,2023,Electric,Automatic,21200000,,625,,536,5,69600,1.2,0,0
+BMW,i4,Sedan,Luxury,2022,Electric,Automatic,7250000,,590,,335,5,23100,1.2,0,0
+BMW,i4,Sedan,Luxury,2022,Electric,Automatic,7500000,,590,,335,5,24000,1.2,0,0
+BMW,i4,Sedan,Luxury,2022,Electric,Automatic,7750000,,590,,335,5,24800,1.2,0,0
+BMW,X1,SUV,Luxury,2023,Petrol,Automatic,4950000,15.0,,1499,134,5,26600,6.67,0,0
+BMW,X1,SUV,Luxury,2023,Petrol,Automatic,5080000,15.0,,1499,134,5,28700,6.67,0,0
+BMW,X1,SUV,Luxury,2023,Petrol,Automatic,5200000,15.0,,1499,134,5,26900,6.67,0,0
+BMW,X1,SUV,Luxury,2023,Diesel,Automatic,5050000,19.0,,1995,148,5,26600,4.74,0,0
+BMW,X1,SUV,Luxury,2023,Diesel,Automatic,5180000,19.0,,1995,148,5,28600,4.74,0,0
+BMW,X1,SUV,Luxury,2023,Diesel,Automatic,5300000,19.0,,1995,148,5,29300,4.74,0,0
+BMW,iX1,SUV,Luxury,2023,Electric,Automatic,4900000,,531,,313,5,16000,1.2,0,0
+BMW,iX1,SUV,Luxury,2023,Electric,Automatic,5050000,,531,,313,5,15900,1.2,0,0
+BMW,iX1,SUV,Luxury,2023,Electric,Automatic,5200000,,531,,313,5,18000,1.2,0,0
+BMW,X3,SUV,Luxury,2025,Petrol,Automatic,7580000,13.0,,1998,249,5,40600,7.69,0,0
+BMW,X3,SUV,Luxury,2025,Petrol,Automatic,7690000,13.0,,1998,249,5,40100,7.69,0,0
+BMW,X3,SUV,Luxury,2025,Petrol,Automatic,7800000,13.0,,1998,249,5,43200,7.69,0,0
+BMW,X3,SUV,Luxury,2025,Diesel,Automatic,7700000,17.0,,1995,194,5,43400,5.29,0,0
+BMW,X3,SUV,Luxury,2025,Diesel,Automatic,7800000,17.0,,1995,194,5,41300,5.29,0,0
+BMW,X3,SUV,Luxury,2025,Diesel,Automatic,7900000,17.0,,1995,194,5,42900,5.29,0,0
+BMW,X5,SUV,Luxury,2023,Petrol,Automatic,9790000,11.0,,2998,335,5,51100,9.09,0,0
+BMW,X5,SUV,Luxury,2023,Petrol,Automatic,10000000,11.0,,2998,335,5,52000,9.09,0,0
+BMW,X5,SUV,Luxury,2023,Petrol,Automatic,10200000,11.0,,2998,335,5,53500,9.09,0,0
+BMW,X5,SUV,Luxury,2023,Diesel,Automatic,9800000,14.0,,2993,281,5,53900,6.43,0,0
+BMW,X5,SUV,Luxury,2023,Diesel,Automatic,10000000,14.0,,2993,281,5,58000,6.43,0,0
+BMW,X5,SUV,Luxury,2023,Diesel,Automatic,10200000,14.0,,2993,281,5,54100,6.43,0,0
+BMW,X7,SUV,Luxury,2023,Petrol,Automatic,12700000,10.0,,2998,375,7,72100,10.0,0,0
+BMW,X7,SUV,Luxury,2023,Petrol,Automatic,12900000,10.0,,2998,375,7,68500,10.0,0,0
+BMW,X7,SUV,Luxury,2023,Petrol,Automatic,13100000,10.0,,2998,375,7,70600,10.0,0,0
+BMW,X7,SUV,Luxury,2023,Diesel,Automatic,12500000,13.0,,2993,347,7,65300,6.92,0,0
+BMW,X7,SUV,Luxury,2023,Diesel,Automatic,12750000,13.0,,2993,347,7,67100,6.92,0,0
+BMW,X7,SUV,Luxury,2023,Diesel,Automatic,13000000,13.0,,2993,347,7,74600,6.92,0,0
+BMW,iX,SUV,Luxury,2022,Electric,Automatic,14000000,,575,,516,5,45800,1.2,0,0
+BMW,iX,SUV,Luxury,2022,Electric,Automatic,14100000,,575,,516,5,46500,1.2,0,0
+BMW,iX,SUV,Luxury,2022,Electric,Automatic,14200000,,575,,516,5,49200,1.2,0,0
+BMW,XM,SUV,Luxury,2023,Hybrid,Automatic,26000000,12.0,,4395,644,5,137000,8.33,1,0
+BMW,XM,SUV,Luxury,2023,Hybrid,Automatic,26250000,12.0,,4395,644,5,144600,8.33,1,0
+BMW,XM,SUV,Luxury,2023,Hybrid,Automatic,26500000,12.0,,4395,644,5,138800,8.33,1,0
+BMW,Z4,Coupe,Luxury,2023,Petrol,Automatic,9000000,14.0,,1998,255,2,51900,7.14,0,0
+BMW,Z4,Coupe,Luxury,2023,Petrol,Automatic,9100000,14.0,,1998,255,2,47100,7.14,0,0
+BMW,Z4,Coupe,Luxury,2023,Petrol,Automatic,9200000,14.0,,1998,255,2,48800,7.14,0,0
+BMW,M4 Competition,Coupe,Luxury,2023,Petrol,Automatic,15300000,10.0,,2993,503,4,83400,10.0,0,0
+BMW,M4 Competition,Coupe,Luxury,2023,Petrol,Automatic,15550000,10.0,,2993,503,4,90600,10.0,0,0
+BMW,M4 Competition,Coupe,Luxury,2023,Petrol,Automatic,15800000,10.0,,2993,503,4,87500,10.0,0,0
+Audi,Q3,SUV,Luxury,2023,Petrol,Automatic,4500000,14.0,,1984,187,5,24200,7.14,0,0
+Audi,Q3,SUV,Luxury,2023,Petrol,Automatic,4950000,14.0,,1984,187,5,26700,7.14,0,0
+Audi,Q3,SUV,Luxury,2023,Petrol,Automatic,5400000,14.0,,1984,187,5,29700,7.14,0,0
+Audi,A6,Sedan,Luxury,2024,Petrol,Automatic,6570000,14.0,,1984,241,5,35800,7.14,0,0
+Audi,A6,Sedan,Luxury,2024,Petrol,Automatic,6680000,14.0,,1984,241,5,36800,7.14,0,0
+Audi,A6,Sedan,Luxury,2024,Petrol,Automatic,6800000,14.0,,1984,241,5,38300,7.14,0,0
+Audi,Q5,SUV,Luxury,2023,Petrol,Automatic,6700000,13.0,,1984,245,5,36800,7.69,0,0
+Audi,Q5,SUV,Luxury,2023,Petrol,Automatic,6950000,13.0,,1984,245,5,39300,7.69,0,0
+Audi,Q5,SUV,Luxury,2023,Petrol,Automatic,7200000,13.0,,1984,245,5,39500,7.69,0,0
+Audi,Q7,SUV,Luxury,2022,Petrol,Automatic,8800000,11.0,,2995,340,7,50400,9.09,0,0
+Audi,Q7,SUV,Luxury,2022,Petrol,Automatic,9300000,11.0,,2995,340,7,51200,9.09,0,0
+Audi,Q7,SUV,Luxury,2022,Petrol,Automatic,9800000,11.0,,2995,340,7,56900,9.09,0,0
+Audi,Q8,SUV,Luxury,2023,Petrol,Automatic,11700000,11.0,,2995,340,5,62500,9.09,0,0
+Audi,Q8,SUV,Luxury,2023,Petrol,Automatic,11950000,11.0,,2995,340,5,62800,9.09,0,0
+Audi,Q8,SUV,Luxury,2023,Petrol,Automatic,12200000,11.0,,2995,340,5,70200,9.09,0,0
+Audi,A8 L,Sedan,Luxury,2022,Petrol,Automatic,17700000,11.0,,2995,335,5,92800,9.09,0,0
+Audi,A8 L,Sedan,Luxury,2022,Petrol,Automatic,17850000,11.0,,2995,335,5,98800,9.09,0,0
+Audi,A8 L,Sedan,Luxury,2022,Petrol,Automatic,18000000,11.0,,2995,335,5,97800,9.09,0,0
+Audi,Q8 e-tron,SUV,Luxury,2024,Electric,Automatic,11400000,,600,,402,5,36300,1.2,0,0
+Audi,Q8 e-tron,SUV,Luxury,2024,Electric,Automatic,12100000,,600,,402,5,42300,1.2,0,0
+Audi,Q8 e-tron,SUV,Luxury,2024,Electric,Automatic,12800000,,600,,402,5,41800,1.2,0,0
+Audi,e-tron GT,Sedan,Luxury,2022,Electric,Automatic,17200000,,500,,523,4,55300,1.2,0,0
+Audi,e-tron GT,Sedan,Luxury,2022,Electric,Automatic,18350000,,500,,523,4,61200,1.2,0,0
+Audi,e-tron GT,Sedan,Luxury,2022,Electric,Automatic,19500000,,500,,523,4,61300,1.2,0,0
+Audi,RS Q8,SUV,Luxury,2023,Petrol,Automatic,24900000,8.0,,3996,592,5,136500,12.5,1,0
+Audi,RS Q8,SUV,Luxury,2023,Petrol,Automatic,25200000,8.0,,3996,592,5,144100,12.5,1,0
+Audi,RS Q8,SUV,Luxury,2023,Petrol,Automatic,25500000,8.0,,3996,592,5,138000,12.5,1,0
+Audi,RS 5 Sportback,Sedan,Luxury,2023,Petrol,Automatic,11300000,9.0,,2894,444,5,62000,11.11,0,0
+Audi,RS 5 Sportback,Sedan,Luxury,2023,Petrol,Automatic,11550000,9.0,,2894,444,5,62000,11.11,0,0
+Audi,RS 5 Sportback,Sedan,Luxury,2023,Petrol,Automatic,11800000,9.0,,2894,444,5,65300,11.11,0,0
+Volvo,EX30,SUV,Luxury,2025,Electric,Automatic,4000000,,480,,268,5,13100,1.2,0,0
+Volvo,EX30,SUV,Luxury,2025,Electric,Automatic,4050000,,480,,268,5,14000,1.2,0,0
+Volvo,EX30,SUV,Luxury,2025,Electric,Automatic,4100000,,480,,268,5,13000,1.2,0,0
+Volvo,XC40 Recharge,SUV,Luxury,2022,Electric,Automatic,5610000,,418,,408,5,19400,1.2,0,0
+Volvo,XC40 Recharge,SUV,Luxury,2022,Electric,Automatic,5660000,,418,,408,5,17600,1.2,0,0
+Volvo,XC40 Recharge,SUV,Luxury,2022,Electric,Automatic,5700000,,418,,408,5,18100,1.2,0,0
+Volvo,S90,Sedan,Luxury,2022,Hybrid,Automatic,6800000,15.0,,1969,247,5,35300,6.67,0,0
+Volvo,S90,Sedan,Luxury,2022,Hybrid,Automatic,7000000,15.0,,1969,247,5,38700,6.67,0,0
+Volvo,S90,Sedan,Luxury,2022,Hybrid,Automatic,7200000,15.0,,1969,247,5,40300,6.67,0,0
+Volvo,XC60,SUV,Luxury,2022,Hybrid,Automatic,6890000,14.0,,1969,247,5,39900,7.14,0,0
+Volvo,XC60,SUV,Luxury,2022,Hybrid,Automatic,7040000,14.0,,1969,247,5,38900,7.14,0,0
+Volvo,XC60,SUV,Luxury,2022,Hybrid,Automatic,7200000,14.0,,1969,247,5,40300,7.14,0,0
+Volvo,XC90,SUV,Luxury,2022,Hybrid,Automatic,10200000,12.0,,1969,247,7,53900,8.33,0,0
+Volvo,XC90,SUV,Luxury,2022,Hybrid,Automatic,10300000,12.0,,1969,247,7,56100,8.33,0,0
+Volvo,XC90,SUV,Luxury,2022,Hybrid,Automatic,10400000,12.0,,1969,247,7,55600,8.33,0,0
+Volvo,EX90,SUV,Luxury,2025,Electric,Automatic,11900000,,600,,517,7,40500,1.2,0,0
+Volvo,EX90,SUV,Luxury,2025,Electric,Automatic,12050000,,600,,517,7,40300,1.2,0,0
+Volvo,EX90,SUV,Luxury,2025,Electric,Automatic,12200000,,600,,517,7,42500,1.2,0,0
+Jaguar,F-Pace,SUV,Luxury,2022,Petrol,Automatic,7290000,12.0,,1997,247,5,39900,8.33,0,0
+Jaguar,F-Pace,SUV,Luxury,2022,Petrol,Automatic,7440000,12.0,,1997,247,5,40400,8.33,0,0
+Jaguar,F-Pace,SUV,Luxury,2022,Petrol,Automatic,7600000,12.0,,1997,247,5,40400,8.33,0,0
+Jaguar,I-Pace,SUV,Luxury,2021,Electric,Automatic,12000000,,470,,395,5,39800,1.2,0,0
+Jaguar,I-Pace,SUV,Luxury,2021,Electric,Automatic,12300000,,470,,395,5,39200,1.2,0,0
+Jaguar,I-Pace,SUV,Luxury,2021,Electric,Automatic,12600000,,470,,395,5,42900,1.2,0,0
+Land Rover,Discovery Sport,SUV,Luxury,2022,Diesel,Automatic,6400000,14.0,,1997,201,7,34700,6.43,0,1
+Land Rover,Discovery Sport,SUV,Luxury,2022,Diesel,Automatic,6650000,14.0,,1997,201,7,35300,6.43,0,1
+Land Rover,Discovery Sport,SUV,Luxury,2022,Diesel,Automatic,6900000,14.0,,1997,201,7,39300,6.43,0,1
+Land Rover,Range Rover Evoque,SUV,Luxury,2022,Diesel,Automatic,6790000,14.0,,1997,201,5,38700,6.43,0,0
+Land Rover,Range Rover Evoque,SUV,Luxury,2022,Diesel,Automatic,7000000,14.0,,1997,201,5,37000,6.43,0,0
+Land Rover,Range Rover Evoque,SUV,Luxury,2022,Diesel,Automatic,7200000,14.0,,1997,201,5,41000,6.43,0,0
+Land Rover,Range Rover Evoque,SUV,Luxury,2022,Petrol,Automatic,6900000,11.0,,1997,247,5,39700,9.09,0,0
+Land Rover,Range Rover Evoque,SUV,Luxury,2022,Petrol,Automatic,7100000,11.0,,1997,247,5,37500,9.09,0,0
+Land Rover,Range Rover Evoque,SUV,Luxury,2022,Petrol,Automatic,7300000,11.0,,1997,247,5,42100,9.09,0,0
+Land Rover,Range Rover Velar,SUV,Luxury,2022,Diesel,Automatic,8790000,14.0,,1997,201,5,50600,6.43,0,0
+Land Rover,Range Rover Velar,SUV,Luxury,2022,Diesel,Automatic,9000000,14.0,,1997,201,5,50200,6.43,0,0
+Land Rover,Range Rover Velar,SUV,Luxury,2022,Diesel,Automatic,9200000,14.0,,1997,201,5,51000,6.43,0,0
+Land Rover,Range Rover Velar,SUV,Luxury,2022,Petrol,Automatic,8700000,11.0,,1997,247,5,47600,9.09,0,0
+Land Rover,Range Rover Velar,SUV,Luxury,2022,Petrol,Automatic,9000000,11.0,,1997,247,5,50100,9.09,0,0
+Land Rover,Range Rover Velar,SUV,Luxury,2022,Petrol,Automatic,9300000,11.0,,1997,247,5,50500,9.09,0,0
+Land Rover,Defender,SUV,Luxury,2022,Diesel,Automatic,10500000,11.0,,2997,296,5,58700,8.18,0,1
+Land Rover,Defender,SUV,Luxury,2022,Diesel,Automatic,12750000,11.0,,2997,296,5,70300,8.18,0,1
+Land Rover,Defender,SUV,Luxury,2022,Diesel,Automatic,15000000,11.0,,2997,296,5,81100,8.18,0,1
+Land Rover,Defender,SUV,Luxury,2022,Petrol,Automatic,10400000,9.0,,1997,296,5,54300,11.11,0,1
+Land Rover,Defender,SUV,Luxury,2022,Petrol,Automatic,12600000,9.0,,1997,296,5,68400,11.11,0,1
+Land Rover,Defender,SUV,Luxury,2022,Petrol,Automatic,14800000,9.0,,1997,296,5,84300,11.11,0,1
+Land Rover,Range Rover Sport,SUV,Luxury,2023,Diesel,Automatic,16400000,10.0,,2997,346,5,92600,9.0,0,1
+Land Rover,Range Rover Sport,SUV,Luxury,2023,Diesel,Automatic,17700000,10.0,,2997,346,5,101700,9.0,0,1
+Land Rover,Range Rover Sport,SUV,Luxury,2023,Diesel,Automatic,19000000,10.0,,2997,346,5,103600,9.0,0,1
+Land Rover,Range Rover Sport,SUV,Luxury,2023,Petrol,Automatic,19000000,7.0,,4395,523,5,103700,14.29,0,1
+Land Rover,Range Rover Sport,SUV,Luxury,2023,Petrol,Automatic,21500000,7.0,,4395,523,5,120000,14.29,0,1
+Land Rover,Range Rover Sport,SUV,Luxury,2023,Petrol,Automatic,24000000,7.0,,4395,523,5,131700,14.29,0,1
+Land Rover,Range Rover,SUV,Luxury,2022,Diesel,Automatic,23600000,10.0,,2997,346,5,135500,9.0,1,1
+Land Rover,Range Rover,SUV,Luxury,2022,Diesel,Automatic,27300000,10.0,,2997,346,5,142800,9.0,1,1
+Land Rover,Range Rover,SUV,Luxury,2022,Diesel,Automatic,31000000,10.0,,2997,346,5,170900,9.0,1,1
+Land Rover,Range Rover,SUV,Luxury,2022,Petrol,Automatic,37400000,7.0,,4395,523,5,209100,14.29,1,1
+Land Rover,Range Rover,SUV,Luxury,2022,Petrol,Automatic,43600000,7.0,,4395,523,5,241600,14.29,1,1
+Land Rover,Range Rover,SUV,Luxury,2022,Petrol,Automatic,49800000,7.0,,4395,523,5,268900,14.29,1,1
+Lexus,ES 300h,Sedan,Luxury,2022,Hybrid,Automatic,6490000,22.0,,2487,215,5,36400,4.55,0,0
+Lexus,ES 300h,Sedan,Luxury,2022,Hybrid,Automatic,6730000,22.0,,2487,215,5,37200,4.55,0,0
+Lexus,ES 300h,Sedan,Luxury,2022,Hybrid,Automatic,6970000,22.0,,2487,215,5,37500,4.55,0,0
+Lexus,NX 350h,SUV,Luxury,2022,Hybrid,Automatic,6800000,17.0,,2487,240,5,39000,5.88,0,0
+Lexus,NX 350h,SUV,Luxury,2022,Hybrid,Automatic,6950000,17.0,,2487,240,5,37000,5.88,0,0
+Lexus,NX 350h,SUV,Luxury,2022,Hybrid,Automatic,7100000,17.0,,2487,240,5,38900,5.88,0,0
+Lexus,RX 350h,SUV,Luxury,2023,Hybrid,Automatic,9580000,16.0,,2487,240,5,55400,6.25,0,0
+Lexus,RX 350h,SUV,Luxury,2023,Hybrid,Automatic,9790000,16.0,,2487,240,5,53800,6.25,0,0
+Lexus,RX 350h,SUV,Luxury,2023,Hybrid,Automatic,10000000,16.0,,2487,240,5,53100,6.25,0,0
+Lexus,LM 350h,MPV,Luxury,2024,Hybrid,Automatic,20000000,15.0,,2487,245,4,112300,6.67,0,0
+Lexus,LM 350h,MPV,Luxury,2024,Hybrid,Automatic,22500000,15.0,,2487,245,4,126300,6.67,0,0
+Lexus,LM 350h,MPV,Luxury,2024,Hybrid,Automatic,25000000,15.0,,2487,245,4,134500,6.67,0,0
+Lexus,LX 500d,SUV,Luxury,2022,Diesel,Automatic,28200000,8.0,,3346,304,7,161200,11.25,1,1
+Lexus,LX 500d,SUV,Luxury,2022,Diesel,Automatic,29100000,8.0,,3346,304,7,158400,11.25,1,1
+Lexus,LX 500d,SUV,Luxury,2022,Diesel,Automatic,30000000,8.0,,3346,304,7,157300,11.25,1,1
+Porsche,Macan,SUV,Luxury,2022,Petrol,Automatic,8800000,11.0,,1984,261,5,47400,9.09,0,0
+Porsche,Macan,SUV,Luxury,2022,Petrol,Automatic,9400000,11.0,,1984,261,5,50200,9.09,0,0
+Porsche,Macan,SUV,Luxury,2022,Petrol,Automatic,10000000,11.0,,1984,261,5,55100,9.09,0,0
+Porsche,Macan Electric,SUV,Luxury,2024,Electric,Automatic,16500000,,591,,402,5,56300,1.2,0,0
+Porsche,Macan Electric,SUV,Luxury,2024,Electric,Automatic,17750000,,591,,402,5,58500,1.2,0,0
+Porsche,Macan Electric,SUV,Luxury,2024,Electric,Automatic,19000000,,591,,402,5,61200,1.2,0,0
+Porsche,Cayenne,SUV,Luxury,2023,Petrol,Automatic,13600000,10.0,,2995,349,5,77900,10.0,0,0
+Porsche,Cayenne,SUV,Luxury,2023,Petrol,Automatic,16300000,10.0,,2995,349,5,92900,10.0,0,0
+Porsche,Cayenne,SUV,Luxury,2023,Petrol,Automatic,19000000,10.0,,2995,349,5,99600,10.0,0,0
+Porsche,718 Cayman,Coupe,Luxury,2022,Petrol,Automatic,12500000,10.0,,1988,295,2,66800,10.0,0,0
+Porsche,718 Cayman,Coupe,Luxury,2022,Petrol,Automatic,13750000,10.0,,1988,295,2,74400,10.0,0,0
+Porsche,718 Cayman,Coupe,Luxury,2022,Petrol,Automatic,15000000,10.0,,1988,295,2,82900,10.0,0,0
+Porsche,Panamera,Sedan,Luxury,2024,Petrol,Automatic,17000000,10.0,,2894,348,4,97600,10.0,0,0
+Porsche,Panamera,Sedan,Luxury,2024,Petrol,Automatic,18500000,10.0,,2894,348,4,96800,10.0,0,0
+Porsche,Panamera,Sedan,Luxury,2024,Petrol,Automatic,20000000,10.0,,2894,348,4,109700,10.0,0,0
+Porsche,Taycan,Sedan,Luxury,2022,Electric,Automatic,17000000,,484,,402,4,58700,1.2,0,0
+Porsche,Taycan,Sedan,Luxury,2022,Electric,Automatic,20000000,,484,,402,4,63100,1.2,0,0
+Porsche,Taycan,Sedan,Luxury,2022,Electric,Automatic,23000000,,484,,402,4,71400,1.2,0,0
+Porsche,911,Coupe,Luxury,2023,Petrol,Automatic,19900000,9.0,,2981,379,4,111700,11.11,1,0
+Porsche,911,Coupe,Luxury,2023,Petrol,Automatic,28450000,9.0,,2981,379,4,153400,11.11,1,0
+Porsche,911,Coupe,Luxury,2023,Petrol,Automatic,37000000,9.0,,2981,379,4,212300,11.11,1,0
+MINI,Cooper,Hatchback,Luxury,2022,Petrol,Automatic,4490000,15.0,,1998,175,4,25800,6.67,0,0
+MINI,Cooper,Hatchback,Luxury,2022,Petrol,Automatic,4640000,15.0,,1998,175,4,26000,6.67,0,0
+MINI,Cooper,Hatchback,Luxury,2022,Petrol,Automatic,4800000,15.0,,1998,175,4,27700,6.67,0,0
+MINI,Cooper SE,Hatchback,Luxury,2023,Electric,Automatic,5390000,,270,,181,4,17000,1.2,0,0
+MINI,Cooper SE,Hatchback,Luxury,2023,Electric,Automatic,5440000,,270,,181,4,17600,1.2,0,0
+MINI,Cooper SE,Hatchback,Luxury,2023,Electric,Automatic,5490000,,270,,181,4,18300,1.2,0,0
+MINI,Countryman Electric,SUV,Luxury,2024,Electric,Automatic,5490000,,462,,201,5,18300,1.2,0,0
+MINI,Countryman Electric,SUV,Luxury,2024,Electric,Automatic,6040000,,462,,201,5,19400,1.2,0,0
+MINI,Countryman Electric,SUV,Luxury,2024,Electric,Automatic,6600000,,462,,201,5,22000,1.2,0,0
+Rolls-Royce,Ghost,Sedan,Luxury,2021,Petrol,Automatic,89500000,6.0,,6749,563,5,483200,16.67,1,0
+Rolls-Royce,Ghost,Sedan,Luxury,2021,Petrol,Automatic,97250000,6.0,,6749,563,5,550900,16.67,1,0
+Rolls-Royce,Ghost,Sedan,Luxury,2021,Petrol,Automatic,105000000,6.0,,6749,563,5,570800,16.67,1,0
+Rolls-Royce,Phantom,Sedan,Luxury,2023,Petrol,Automatic,95000000,6.0,,6749,563,5,542900,16.67,1,0
+Rolls-Royce,Phantom,Sedan,Luxury,2023,Petrol,Automatic,102500000,6.0,,6749,563,5,530100,16.67,1,0
+Rolls-Royce,Phantom,Sedan,Luxury,2023,Petrol,Automatic,110000000,6.0,,6749,563,5,613400,16.67,1,0
+Rolls-Royce,Cullinan,SUV,Luxury,2023,Petrol,Automatic,105000000,6.0,,6749,563,5,570800,16.67,1,0
+Rolls-Royce,Cullinan,SUV,Luxury,2023,Petrol,Automatic,115000000,6.0,,6749,563,5,622500,16.67,1,0
+Rolls-Royce,Cullinan,SUV,Luxury,2023,Petrol,Automatic,125000000,6.0,,6749,563,5,670400,16.67,1,0
+Rolls-Royce,Spectre,Coupe,Luxury,2023,Electric,Automatic,75000000,,530,,576,4,239400,1.2,1,0
+Rolls-Royce,Spectre,Coupe,Luxury,2023,Electric,Automatic,77500000,,530,,576,4,249800,1.2,1,0
+Rolls-Royce,Spectre,Coupe,Luxury,2023,Electric,Automatic,80000000,,530,,576,4,266500,1.2,1,0
+Bentley,Continental GT,Coupe,Luxury,2023,Petrol,Automatic,50000000,8.0,,3996,542,4,270100,12.5,1,0
+Bentley,Continental GT,Coupe,Luxury,2023,Petrol,Automatic,53000000,8.0,,3996,542,4,306100,12.5,1,0
+Bentley,Continental GT,Coupe,Luxury,2023,Petrol,Automatic,56000000,8.0,,3996,542,4,324500,12.5,1,0
+Bentley,Flying Spur,Sedan,Luxury,2023,Petrol,Automatic,50000000,8.0,,3996,542,5,270100,12.5,1,0
+Bentley,Flying Spur,Sedan,Luxury,2023,Petrol,Automatic,53500000,8.0,,3996,542,5,279300,12.5,1,0
+Bentley,Flying Spur,Sedan,Luxury,2023,Petrol,Automatic,57000000,8.0,,3996,542,5,330800,12.5,1,0
+Bentley,Bentayga,SUV,Luxury,2023,Petrol,Automatic,50000000,7.0,,3996,542,5,270100,14.29,1,0
+Bentley,Bentayga,SUV,Luxury,2023,Petrol,Automatic,55000000,7.0,,3996,542,5,285300,14.29,1,0
+Bentley,Bentayga,SUV,Luxury,2023,Petrol,Automatic,60000000,7.0,,3996,542,5,339300,14.29,1,0
+Lamborghini,Urus,SUV,Luxury,2023,Petrol,Automatic,41800000,7.0,,3996,657,5,238300,14.29,1,0
+Lamborghini,Urus,SUV,Luxury,2023,Petrol,Automatic,43900000,7.0,,3996,657,5,252300,14.29,1,0
+Lamborghini,Urus,SUV,Luxury,2023,Petrol,Automatic,46000000,7.0,,3996,657,5,261300,14.29,1,0
+Lamborghini,Huracan,Coupe,Luxury,2023,Petrol,Automatic,40400000,6.0,,5204,631,2,219200,16.67,1,0
+Lamborghini,Huracan,Coupe,Luxury,2023,Petrol,Automatic,42200000,6.0,,5204,631,2,235400,16.67,1,0
+Lamborghini,Huracan,Coupe,Luxury,2023,Petrol,Automatic,44000000,6.0,,5204,631,2,250600,16.67,1,0
+Lamborghini,Revuelto,Coupe,Luxury,2024,Hybrid,Automatic,88900000,5.0,,6498,1001,2,497200,20.0,1,0
+Lamborghini,Revuelto,Coupe,Luxury,2024,Hybrid,Automatic,89450000,5.0,,6498,1001,2,506900,20.0,1,0
+Lamborghini,Revuelto,Coupe,Luxury,2024,Hybrid,Automatic,90000000,5.0,,6498,1001,2,511900,20.0,1,0
+Ferrari,Roma,Coupe,Luxury,2022,Petrol,Automatic,37600000,8.0,,3855,612,4,212000,12.5,1,0
+Ferrari,Roma,Coupe,Luxury,2022,Petrol,Automatic,38800000,8.0,,3855,612,4,224900,12.5,1,0
+Ferrari,Roma,Coupe,Luxury,2022,Petrol,Automatic,40000000,8.0,,3855,612,4,230300,12.5,1,0
+Ferrari,296 GTB,Coupe,Luxury,2023,Hybrid,Automatic,54000000,10.0,,2992,818,2,296300,10.0,1,0
+Ferrari,296 GTB,Coupe,Luxury,2023,Hybrid,Automatic,55000000,10.0,,2992,818,2,318500,10.0,1,0
+Ferrari,296 GTB,Coupe,Luxury,2023,Hybrid,Automatic,56000000,10.0,,2992,818,2,307600,10.0,1,0
+Ferrari,SF90 Stradale,Coupe,Luxury,2022,Hybrid,Automatic,75000000,7.0,,3990,986,2,413300,14.29,1,0
+Ferrari,SF90 Stradale,Coupe,Luxury,2022,Hybrid,Automatic,76500000,7.0,,3990,986,2,403400,14.29,1,0
+Ferrari,SF90 Stradale,Coupe,Luxury,2022,Hybrid,Automatic,78000000,7.0,,3990,986,2,441900,14.29,1,0
+Ferrari,12Cilindri,Coupe,Luxury,2024,Petrol,Automatic,89000000,6.0,,6496,819,2,507400,16.67,1,0
+Ferrari,12Cilindri,Coupe,Luxury,2024,Petrol,Automatic,90000000,6.0,,6496,819,2,488500,16.67,1,0
+Ferrari,12Cilindri,Coupe,Luxury,2024,Petrol,Automatic,91000000,6.0,,6496,819,2,482500,16.67,1,0
+Ferrari,Purosangue,SUV,Luxury,2023,Petrol,Automatic,105000000,5.0,,6496,715,4,572900,20.0,1,0
+Ferrari,Purosangue,SUV,Luxury,2023,Petrol,Automatic,107500000,5.0,,6496,715,4,626000,20.0,1,0
+Ferrari,Purosangue,SUV,Luxury,2023,Petrol,Automatic,110000000,5.0,,6496,715,4,623400,20.0,1,0
+Maserati,Grecale,SUV,Luxury,2023,Petrol,Automatic,13100000,9.0,,1995,296,5,68400,11.11,0,0
+Maserati,Grecale,SUV,Luxury,2023,Petrol,Automatic,14050000,9.0,,1995,296,5,75900,11.11,0,0
+Maserati,Grecale,SUV,Luxury,2023,Petrol,Automatic,15000000,9.0,,1995,296,5,82600,11.11,0,0
+Maserati,GranTurismo,Coupe,Luxury,2023,Petrol,Automatic,27200000,8.0,,2992,483,4,144000,12.5,1,0
+Maserati,GranTurismo,Coupe,Luxury,2023,Petrol,Automatic,28100000,8.0,,2992,483,4,153200,12.5,1,0
+Maserati,GranTurismo,Coupe,Luxury,2023,Petrol,Automatic,29000000,8.0,,2992,483,4,155900,12.5,1,0
+Maserati,MC20,Coupe,Luxury,2022,Petrol,Automatic,36900000,7.0,,2992,630,2,201500,14.29,1,0
+Maserati,MC20,Coupe,Luxury,2022,Petrol,Automatic,37450000,7.0,,2992,630,2,197300,14.29,1,0
+Maserati,MC20,Coupe,Luxury,2022,Petrol,Automatic,38000000,7.0,,2992,630,2,214600,14.29,1,0
+Aston Martin,Vantage,Coupe,Luxury,2024,Petrol,Automatic,39900000,8.0,,3982,656,2,215700,12.5,1,0
+Aston Martin,Vantage,Coupe,Luxury,2024,Petrol,Automatic,40450000,8.0,,3982,656,2,233400,12.5,1,0
+Aston Martin,Vantage,Coupe,Luxury,2024,Petrol,Automatic,41000000,8.0,,3982,656,2,229100,12.5,1,0
+Aston Martin,DB12,Coupe,Luxury,2023,Petrol,Automatic,45900000,8.0,,3982,671,4,264400,12.5,1,0
+Aston Martin,DB12,Coupe,Luxury,2023,Petrol,Automatic,46450000,8.0,,3982,671,4,241900,12.5,1,0
+Aston Martin,DB12,Coupe,Luxury,2023,Petrol,Automatic,47000000,8.0,,3982,671,4,259300,12.5,1,0
+Aston Martin,DBX707,SUV,Luxury,2022,Petrol,Automatic,46300000,6.0,,3982,697,5,240200,16.67,1,0
+Aston Martin,DBX707,SUV,Luxury,2022,Petrol,Automatic,46900000,6.0,,3982,697,5,246400,16.67,1,0
+Aston Martin,DBX707,SUV,Luxury,2022,Petrol,Automatic,47500000,6.0,,3982,697,5,275100,16.67,1,0

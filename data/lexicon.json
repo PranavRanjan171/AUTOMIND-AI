@@ -1,0 +1,148 @@
+{
+ "brands": {
+  "honda": "Honda",
+  "hyundai": "Hyundai",
+  "kia": "Kia",
+  "mahindra": "Mahindra",
+  "maruti": "Maruti Suzuki",
+  "suzuki": "Maruti Suzuki",
+  "renault": "Renault",
+  "nissan": "Nissan",
+  "skoda": "Skoda",
+  "tata": "Tata Motors",
+  "toyota": "Toyota",
+  "volkswagen": "Volkswagen",
+  "vw": "Volkswagen",
+  "mg": "MG",
+  "jeep": "Jeep",
+  "citroen": "Citroen",
+  "byd": "BYD",
+  "mercedes": "Mercedes-Benz",
+  "mercedesbenz": "Mercedes-Benz",
+  "benz": "Mercedes-Benz",
+  "merc": "Mercedes-Benz",
+  "bmw": "BMW",
+  "audi": "Audi",
+  "volvo": "Volvo",
+  "jaguar": "Jaguar",
+  "landrover": "Land Rover",
+  "lexus": "Lexus",
+  "porsche": "Porsche",
+  "rollsroyce": "Rolls-Royce",
+  "bentley": "Bentley",
+  "lamborghini": "Lamborghini",
+  "lambo": "Lamborghini",
+  "ferrari": "Ferrari",
+  "maserati": "Maserati",
+  "astonmartin": "Aston Martin"
+ },
+ "ambiguous": [
+  "city",
+  "punch",
+  "seal",
+  "compass",
+  "safari",
+  "ghost",
+  "roma",
+  "cooper",
+  "vantage",
+  "defender",
+  "golf",
+  "windsor",
+  "comet",
+  "be6"
+ ],
+ "aliases": {
+  "innova": "Innova Crysta",
+  "crysta": "Innova Crysta",
+  "hycross": "Innova Hycross",
+  "zenix": "Innova Hycross",
+  "alto": "Alto K10",
+  "wagonr": "Wagon R",
+  "i10": "Grand i10 Nios",
+  "grand i10": "Grand i10 Nios",
+  "nios": "Grand i10 Nios",
+  "scorpio": "Scorpio-N",
+  "hyryder": "Urban Cruiser Hyryder",
+  "taisor": "Urban Cruiser Taisor",
+  "3xo": "XUV 3XO",
+  "land cruiser": "Land Cruiser 300",
+  "landcruiser": "Land Cruiser 300",
+  "etron": "Q8 e-tron",
+  "evoque": "Range Rover Evoque",
+  "velar": "Range Rover Velar",
+  "3 series": "3 Series Gran Limousine",
+  "2 series": "2 Series Gran Coupe",
+  "ioniq": "Ioniq 5",
+  "amg gt": "AMG GT 63",
+  "m4": "M4 Competition",
+  "cayman": "718 Cayman",
+  "gti": "Golf GTI",
+  "golf": "Golf GTI",
+  "creta ev": "Creta Electric",
+  "mahindra be 6": "BE 6",
+  "mahindra be6": "BE 6",
+  "mg windsor": "Windsor EV",
+  "windsor": "Windsor EV",
+  "comet": "Comet EV",
+  "mini cooper": "Cooper",
+  "mini cooper se": "Cooper SE",
+  "mini countryman": "Countryman Electric",
+  "countryman": "Countryman Electric",
+  "dbx": "DBX707"
+ },
+ "origins": {
+  "german": [
+   "Mercedes-Benz",
+   "BMW",
+   "Audi",
+   "Porsche",
+   "Volkswagen"
+  ],
+  "japanese": [
+   "Toyota",
+   "Honda",
+   "Nissan",
+   "Lexus",
+   "Maruti Suzuki"
+  ],
+  "korean": [
+   "Hyundai",
+   "Kia"
+  ],
+  "indian": [
+   "Tata Motors",
+   "Mahindra"
+  ],
+  "american": [
+   "Jeep"
+  ],
+  "chinese": [
+   "MG",
+   "BYD"
+  ],
+  "italian": [
+   "Ferrari",
+   "Lamborghini",
+   "Maserati"
+  ],
+  "british": [
+   "Jaguar",
+   "Land Rover",
+   "Bentley",
+   "Rolls-Royce",
+   "Aston Martin",
+   "MINI"
+  ],
+  "swedish": [
+   "Volvo"
+  ],
+  "french": [
+   "Renault",
+   "Citroen"
+  ],
+  "czech": [
+   "Skoda"
+  ]
+ }
+}

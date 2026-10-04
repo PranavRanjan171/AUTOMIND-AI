@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AutoMind AI — Find Your Car</title>
+    <meta name="description" content="Describe the car you want in plain English and get ranked recommendations with clear reasons.">
+    <meta name="theme-color" content="#08090b">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23fff'/%3E%3Ctext x='16' y='23' font-size='20' font-weight='900' text-anchor='middle' font-family='Arial' fill='%2308090b'%3EA%3C/text%3E%3C/svg%3E">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <a href="#main" class="skip-link">Skip to content</a>
+
+    <div class="ambient ambient-one"></div>
+    <div class="ambient ambient-two"></div>
+
+    <!-- NAVBAR -->
+    <header class="navbar">
+        <div class="nav-inner">
+
+            <a href="#home" class="brand">
+                <div class="brand-mark">A</div>
+                <div class="brand-name">
+                    AutoMind<span> AI</span>
+                </div>
+            </a>
+
+            <nav class="nav-links" id="navLinks">
+                <a href="#home">Home</a>
+                <a href="#features">Features</a>
+                <a href="#how-it-works">How It Works</a>
+                <a href="#founder">Founder</a>
+            </nav>
+
+            <button class="mobile-menu" id="mobileMenu" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="navLinks">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+        </div>
+    </header>
+
+
+    <main id="main">
+
+        <!-- HERO -->
+        <section class="hero" id="home">
+
+            <div class="hero-content">
+
+                <div class="eyebrow">
+                    <span class="status-dot"></span>
+                    AI-POWERED CAR RECOMMENDATIONS
+                </div>
+
+                <h1>
+                    Find the car
+                    <span>that fits you.</span>
+                </h1>
+
+                <p class="hero-text">
+                    Tell us what you're looking for in plain English.
+                    Our AI understands your preferences and finds the
+                    cars that match.
+                </p>
+
+
+                <!-- SEARCH BOX -->
+                <div class="search-card">
+
+                    <div class="search-title">
+                        <span class="spark">✦</span>
+                        Describe your ideal car
+                    </div>
+
+                    <form class="search-row" id="searchForm" role="search" novalidate>
+
+                        <label for="searchInput" class="sr-only">Describe your ideal car</label>
+                        <input
+                            type="text"
+                            id="searchInput"
+                            maxlength="200"
+                            enterkeyhint="search"
+                            placeholder="e.g. 7 seater under 20 lakh with good mileage"
+                            autocomplete="off"
+                        >
+
+                        <button id="searchButton" class="find-button" type="submit">
+                            <span id="buttonText">Find My Car</span>
+                            <span class="button-arrow">→</span>
+                        </button>
+
+                    </form>
+
+                    <div class="search-modes" aria-label="Choose how to find a car">
+                        <button class="guided-button" id="guidedStart" type="button">
+                            <span class="guided-icon">✦</span>
+                            <span><strong>Help me choose</strong><small>Answer 10 quick questions</small></span>
+                            <span class="guided-arrow">→</span>
+                        </button>
+                    </div>
+
+                    <p class="field-error hidden" id="searchHint" role="alert"></p>
+
+                    <div class="try-label">
+                        TRY AN EXAMPLE
+                    </div>
+
+                    <div class="chips">
+
+                        <button class="chip" type="button">
+Most expensive car
+</button>
+
+                        <button class="chip" type="button">
+Luxury SUV under 1 crore
+</button>
+
+                        <button class="chip" type="button">
+7 seater automatic under 25 lakh
+</button>
+
+                        <button class="chip" type="button">
+Cheapest electric car
+</button>
+
+                    </div>
+
+                </div>
+
+
+                <div class="hero-note">
+                    <span>✦</span>
+                    Mention budget, fuel, seats, body type or mileage
+                    <span class="note-separator">•</span>
+                    Press Enter to search
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- FEATURES -->
+        <section class="features section" id="features">
+
+            <div class="container">
+
+                <div class="section-intro">
+                    <div class="section-label">WHY AUTOMIND</div>
+
+                    <h2>
+                        Car shopping,
+                        <span>made intelligent.</span>
+                    </h2>
+
+                    <p>
+                        Forget endless filters and comparison tables.
+                        Just tell us what matters to you.
+                    </p>
+                </div>
+
+
+                <div class="feature-grid">
+
+                    <article class="feature-card">
+
+                        <div class="card-top">
+                            <span class="feature-number">01</span>
+                            <span class="feature-symbol">✦</span>
+                        </div>
+
+                        <h3>Natural Language</h3>
+
+                        <p>
+                            Describe your requirements naturally.
+                            AutoMind extracts your preferences from
+                            everyday language.
+                        </p>
+
+                    </article>
+
+
+                    <article class="feature-card">
+
+                        <div class="card-top">
+                            <span class="feature-number">02</span>
+                            <span class="feature-symbol">◎</span>
+                        </div>
+
+                        <h3>Smart Matching</h3>
+
+                        <p>
+                            Machine learning analyzes the available
+                            cars and finds the closest matches.
+                        </p>
+
+                    </article>
+
+
+                    <article class="feature-card">
+
+                        <div class="card-top">
+                            <span class="feature-number">03</span>
+                            <span class="feature-symbol">↗</span>
+                        </div>
+
+                        <h3>Personalized Results</h3>
+
+                        <p>
+                            See your top recommendations along with
+                            scores and clear reasons for each match.
+                        </p>
+
+                    </article>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- HOW IT WORKS -->
+        <section class="how section" id="how-it-works">
+
+            <div class="container">
+
+                <div class="section-intro">
+                    <div class="section-label">HOW IT WORKS</div>
+
+                    <h2>
+                        Three steps.
+                        <span>One smart search.</span>
+                    </h2>
+                </div>
+
+
+                <div class="steps">
+
+                    <div class="step">
+
+                        <div class="step-index">01</div>
+
+                        <div class="step-content">
+                            <h3>Describe</h3>
+                            <p>
+                                Tell AutoMind your budget, fuel type,
+                                seating, mileage, performance or
+                                maintenance preferences.
+                            </p>
+                        </div>
+
+                    </div>
+
+
+                    <div class="step">
+
+                        <div class="step-index">02</div>
+
+                        <div class="step-content">
+                            <h3>Understand</h3>
+                            <p>
+                                The system converts your natural-language
+                                request into structured preferences.
+                            </p>
+                        </div>
+
+                    </div>
+
+
+                    <div class="step">
+
+                        <div class="step-index">03</div>
+
+                        <div class="step-content">
+                            <h3>Recommend</h3>
+                            <p>
+                                The recommendation engine ranks the
+                                closest matching cars for you.
+                            </p>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- GUIDED QUESTIONNAIRE -->
+        <section class="quiz-overlay hidden" id="quizOverlay" aria-hidden="true">
+            <div class="quiz-card" role="dialog" aria-modal="true" aria-labelledby="quizTitle">
+                <div class="quiz-top">
+                    <button class="quiz-close" id="quizClose" type="button" aria-label="Close questionnaire">×</button>
+                    <div class="quiz-progress"><span id="quizProgressBar"></span></div>
+                    <span id="quizProgressText">1 of 10</span>
+                </div>
+                <div class="quiz-content">
+                    <div class="quiz-kicker">SMART CAR FINDER</div>
+                    <h2 id="quizTitle" tabindex="-1">Let's find your car.</h2>
+                    <p id="quizQuestion"></p>
+                    <div class="quiz-options" id="quizOptions"></div>
+                    <div class="quiz-actions">
+                        <button class="quiz-back" id="quizBack" type="button">← Back</button>
+                        <button class="quiz-next" id="quizNext" type="button" disabled>Next →</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- RESULTS -->
+        <section class="results section hidden" id="resultsSection" aria-labelledby="resultsTitle">
+
+            <div class="container">
+
+                <div class="results-heading">
+
+                    <div>
+                        <div class="section-label">YOUR RESULTS</div>
+                        <h2 id="resultsTitle" tabindex="-1">Recommended cars</h2>
+                    </div>
+
+                    <button
+                        id="searchAgainButton"
+                        class="search-again hidden"
+                        type="button"
+                    >
+                        ← Search Again
+                    </button>
+
+                </div>
+
+
+                <!-- LOADING -->
+                <div id="loadingState" class="state hidden" role="status" aria-live="polite">
+
+                    <div class="loader"></div>
+
+                    <h3>Finding your perfect matches...</h3>
+
+                    <p id="loadingText">
+                        AutoMind is analyzing your requirements.
+                    </p>
+
+                </div>
+
+
+                <!-- ERROR -->
+                <div id="errorState" class="state error-state hidden" role="alert">
+
+                    <div class="state-symbol">!</div>
+
+                    <h3>Unable to get recommendations</h3>
+
+                    <p id="errorMessage">
+                        Something went wrong.
+                    </p>
+
+                    <button id="retryButton" class="retry-button" type="button">
+                        Try Again
+                    </button>
+
+                </div>
+
+
+                <!-- NO RESULTS -->
+                <div id="noResultsState" class="state hidden">
+
+                    <div class="state-symbol">?</div>
+
+                    <h3>No matching cars found</h3>
+
+                    <p>
+                        Try a wider budget, fewer requirements, or a
+                        different fuel type or body style.
+                    </p>
+
+                    <button id="startOverButton" class="retry-button" type="button">
+                        Edit my search
+                    </button>
+
+                </div>
+
+
+                <!-- RESULTS CONTENT -->
+                <div id="resultsContent" class="hidden">
+
+
+                    <div id="noticeBanner" class="notice hidden" role="status"></div>
+
+                    <!-- UNDERSTOOD PREFERENCES -->
+                    <div class="understood-card">
+
+                        <div class="understood-header">
+
+                            <div>
+                                <div class="section-label">
+                                    AI UNDERSTANDING
+                                </div>
+
+                                <h3>
+                                    Here's what we understood
+                                </h3>
+                            </div>
+
+                            <div class="analyzed">
+                                <span></span>
+                                Analyzed
+                            </div>
+
+                        </div>
+
+                        <div
+                            id="preferencesContainer"
+                            class="preferences"
+                        ></div>
+
+                    </div>
+
+
+                    <form class="own-card" id="ownForm" novalidate>
+                        <div class="own-head">
+                            <div class="section-label">OWNERSHIP COST</div>
+                            <h3>What will it really cost to own?</h3>
+                        </div>
+                        <label class="own-field" for="kmInput">
+                            <span>How many km do you drive per day?</span>
+                            <input id="kmInput" type="number" inputmode="numeric" min="1" max="500" step="1" value="30" autocomplete="off">
+                        </label>
+                        <label class="own-field" for="downInput">
+                            <span>Down payment <em>(optional, in ₹ lakh)</em></span>
+                            <input id="downInput" type="number" inputmode="decimal" min="0" step="0.1" placeholder="Blank = 20% of price" autocomplete="off">
+                        </label>
+                        <p class="own-hint" id="ownHint" role="status"></p>
+                        <p class="own-assume">Assumes a 5-year car loan at 9.5%. The 5-year total adds the down payment, every EMI, fuel or electricity and servicing. Insurance, road tax and resale value are not included.</p>
+                    </form>
+
+
+                    <!-- CAR RESULTS -->
+                    <div
+                        id="recommendationsContainer"
+                        class="recommendations"
+                    ></div>
+
+                    <p class="footnote">
+                        Prices and specifications come from a sample
+                        dataset and are estimates, not live listings.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- FOUNDER -->
+        <section class="founder hidden" id="founder" aria-labelledby="founderName">
+
+            <div class="container">
+
+                <div class="founder-hero">
+
+                    <div class="founder-copy">
+                        <div class="eyebrow"><span class="status-dot"></span>FOUNDER &amp; BUILDER</div>
+                        <h1 id="founderName" tabindex="-1">Pranav <span>Ranjan</span></h1>
+                        <p class="founder-lead">I build full-stack products and put them live. Founder of AutoMind AI, a car finder that understands plain English.</p>
+                        <p class="founder-sub">Computer Science Engineering student at IIIT Kottayam, batch 2024–2028. Based in India.</p>
+                        <div class="founder-actions">
+                            <a class="find-button founder-cta" href="https://www.linkedin.com/in/pranav-ranjan-37b66a324/" target="_blank" rel="noopener noreferrer">Connect on LinkedIn <span class="button-arrow">↗</span></a>
+                            <a class="founder-ghost" href="#home">Try AutoMind AI →</a>
+                        </div>
+                    </div>
+
+                    <div class="founder-card" aria-hidden="true">
+                        <div class="founder-monogram">PR</div>
+                        <div class="founder-card-lines">
+                            <span>Founder · AutoMind AI</span>
+                            <span>IIIT Kottayam · 2024–2028</span>
+                            <span>Full-stack · React · Node · Python</span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="founder-glance">
+                    <div><b>National-level</b><span>hackathons, including IIT Madras</span></div>
+                    <div><b>Full-stack</b><span>from UI to API to deployment</span></div>
+                    <div><b>Ships live</b><span>products people can open and use</span></div>
+                </div>
+
+                <div class="section-intro founder-intro">
+                    <div class="section-label">WHAT I'VE BUILT</div>
+                    <h2>Products, <span>not just projects.</span></h2>
+                </div>
+
+                <div class="founder-projects">
+
+                    <article class="founder-project">
+                        <div class="fp-tag">Founder project</div>
+                        <h3>AutoMind AI</h3>
+                        <p>Describe the car you want in plain English, Hinglish included, and get ranked matches across 191 models and 30 brands, with reasons, side-by-side comparison and a 5-year ownership cost with EMI.</p>
+                        <div class="fp-stack">Python · FastAPI · JavaScript</div>
+                        <a class="fp-link" href="#home">Open the app →</a>
+                    </article>
+
+                    <article class="founder-project">
+                        <div class="fp-tag">Solo · Live</div>
+                        <h3>Criksy</h3>
+                        <p>An offline-first scoring app for street cricket: ball-by-ball scoring, tournament fixtures and leaderboards, WhatsApp sharing, scorecard export and a QR spectator mode.</p>
+                        <div class="fp-stack">Offline-first · Deployed on Vercel</div>
+                        <a class="fp-link" href="https://criksy.vercel.app" target="_blank" rel="noopener noreferrer">criksy.vercel.app ↗</a>
+                    </article>
+
+                    <article class="founder-project">
+                        <div class="fp-tag">Hackathon · IIT Madras</div>
+                        <h3>RoadSOS</h3>
+                        <p>An emergency-response PWA built for the National Road Safety Hackathon: multilingual voice-triggered SOS and real-time ambulance tracking.</p>
+                        <div class="fp-stack">Node · Express · MongoDB · Socket.IO</div>
+                    </article>
+
+                    <article class="founder-project">
+                        <div class="fp-tag">Team project</div>
+                        <h3>HEALTECH</h3>
+                        <p>A healthcare web app. I own the user-facing flow: hospital search and details, map and ETA, emergency screen, ambulance booking and the AI health buddy interface.</p>
+                        <div class="fp-stack">React · Vite · Express · MongoDB</div>
+                    </article>
+
+                </div>
+
+                <div class="section-intro founder-intro">
+                    <div class="section-label">TOOLBOX</div>
+                    <h2>What I build <span>with.</span></h2>
+                </div>
+
+                <ul class="founder-stack" aria-label="Technologies">
+                    <li>React</li><li>Vite</li><li>JavaScript</li><li>Node.js</li><li>Express</li><li>MongoDB</li>
+                    <li>Python</li><li>FastAPI</li><li>Socket.IO</li><li>C &amp; OpenMP</li><li>MATLAB</li><li>Vercel</li>
+                </ul>
+
+                <div class="founder-end">
+                    <h2>Let's build something.</h2>
+                    <a class="find-button founder-cta" href="https://www.linkedin.com/in/pranav-ranjan-37b66a324/" target="_blank" rel="noopener noreferrer">Say hello on LinkedIn <span class="button-arrow">↗</span></a>
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- FOOTER -->
+    <footer class="footer">
+
+        <div class="container footer-inner">
+
+            <div class="footer-brand">
+
+                <div class="brand">
+                    <div class="brand-mark">A</div>
+
+                    <div class="brand-name">
+                        AutoMind<span> AI</span>
+                    </div>
+                </div>
+
+                <p>
+                    Intelligent car recommendations powered by ML.
+                    Built by <a class="footer-link" href="#founder">Pranav Ranjan</a>.
+                </p>
+
+            </div>
+
+            <div class="footer-bottom">
+                © 2026 AutoMind AI
+            </div>
+
+        </div>
+
+    </footer>
+
+
+    <script src="cars-data.js"></script>
+    <script src="engine.js"></script>
+    <script src="image-links.js"></script>
+    <script src="ownership.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
